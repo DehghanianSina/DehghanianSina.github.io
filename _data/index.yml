@@ -36,14 +36,9 @@ nav:
   - link: https://github.com/DehghanianSina
     icon: fab fa-github
     text: Github
-  - link: https://t.me/Dehghanian_Sina
+  - link: https://t.me/DehghanianSina
     icon: fab fa-telegram
     text: Telegram
-  - index: index/sections/work/index
-    icon: fas fa-briefcase
-    text: Work Experiences
-    link: /index/sections/work/
-    kind: Index
 search:
   links: true
   content: true
