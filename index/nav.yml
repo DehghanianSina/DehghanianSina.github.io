@@ -2,7 +2,7 @@ brand:
   text: Q Glance
   link: /
 content:
-  - index: index
+  - index: index/index
     text: Home
   - index: index/sections/work/index
     text: Work Experiences
