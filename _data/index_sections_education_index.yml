@@ -1,0 +1,47 @@
+education:
+  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"https://english.iut.ac.ir/\">Isfahan University of Technology</a></h5>\n\
+    <p class=\"text-center mb-0 fw-light\">M.Sc in <a class=\"text-dark\" href=\"\
+    https://ece.iut.ac.ir/en\">Artificial Intelligence</a></p>\n<p class=\"text-muted\
+    \ text-center small\">Sep. 2016 - Jul. 2019</p>\n</div>\n<div class=\"col-12 col-md-8\"\
+    ><ul>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\"\
+    \ style=\"cursor: pointer;\">Thesis:</span></strong> \n  Workload Offloading in\
+    \ Fog Computing: A Cooperative Approach <small class=\"text-secondary\">, </small></li>\n\
+    <li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\">Supervisior:</span></strong> Dr. Manshaei,</li>\n<li><strong><span\
+    \ data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\"\
+    >Short Description:</span></strong>\nUsing Reinforcement Learning methods like\
+    \ Q-Learning for optimizing workload offloading in the\nFog Computing paradigm\
+    \ in terms of delay and QoS.</li>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Abstract:</span></strong>\
+    \ You can find my thesis abstract and its first chapter on my academic website\
+    \ from <a href=\"https://dehghanian.ece.iut.ac.ir/content/msc-thesis-workload-offloading-fog-computing-cooperative-approach\"\
+    >here</a></li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\">IUT Thesis Repository:</span></strong> You\
+    \ can check my thesis in the IUT Thesis repository <a href=\"https://thesis.iut.ac.ir/workload-offloading-fog-computing-cooperative-approachsina-dehghanian-nasrabadi\"\
+    >here</a></li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
+    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://english.iut.ac.ir/\"\
+    >Isfahan University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    >B.Sc in <a class=\"text-dark\" href=\"https://ece.iut.ac.ir/en\">Computer Engineering</a></p>\n\
+    <p class=\"text-muted text-center small\">Sep. 2012 - Jun. 2016</p>\n</div>\n\
+    <div class=\"col-12 col-md-8\"><ul>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Project:</span></strong>\
+    \ \n  Mining Web Data in the field of E-Commerce <small class=\"text-secondary\"\
+    >, </small></li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\">Supervisior:</span></strong> Dr. Ghadiri,</li>\n\
+    <li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\">Short Description:</span></strong>\nPerforming sentiment analysis\
+    \ on Persian comments published on one of the biggest E-commerce\nwebsites and\
+    \ classifying each comment.</li>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Abstract:</span></strong>\
+    \ You can find my project abstract along with its first chapter on my academic\
+    \ website from <a href=\"https://dehghanian.ece.iut.ac.ir/content/mining-web-data-field-e-commerce\"\
+    >here</a></li>\n</ul></div>\n</div>\n</div>"
+  label: <i class="fas fa-graduation-cap"></i> Education
+title: Index
+kind: Index
+search:
+  content: false
+  links: false
