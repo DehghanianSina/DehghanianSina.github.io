@@ -15,3 +15,6 @@ nav:
     - link: https://t.me/Dehghanian_Sina
       icon: fab fa-telegram
       text: Telegram
+    - index: sections/work/index
+      icon: fas fa-briefcase
+      text: Work Experiences
