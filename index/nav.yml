@@ -1,0 +1,17 @@
+nav:
+  fixed:
+    - link: 'https://dehghanian.ece.iut.ac.ir/'
+      icon: fas fa-globe
+      text: website
+    - link: mailto:s.dehghanian@roomvu.co
+      icon: fas fa-envelope
+      text: Email
+    - link: https://linkedin.com/in/SinaDehghanian
+      icon: fab fa-linkedin
+      text: LinkedIn
+    - link: https://github.com/DehghanianSina
+      icon: fab fa-github
+      text: Github
+    - link: https://t.me/Dehghanian_Sina
+      icon: fab fa-telegram
+      text: Telegram

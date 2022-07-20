@@ -1,0 +1,21 @@
+honor:
+  label: <i class="fas fa-award"></i> Honors
+  sub-label: false
+  template:
+    template: templates/experience.html
+    apply: whole
+  ielts:
+    heading: Direct Admission
+    heading_details: Directly admitted to the master due to top graduation rank in bachelor
+    no_line: true
+    content: 
+  master:
+    heading: Top Graduation
+    heading_details: Ranked top 10% of graduates at the master
+    no_line: true
+    content: 
+  bachelor:
+    heading: Top Graduation
+    heading_details: Ranked top 10% of graduates at the bachelor
+    no_line: true
+    content: 

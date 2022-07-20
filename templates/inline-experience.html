@@ -1,0 +1,39 @@
+<div class="container-fluid">
+    {% for key, value in obj.items() if key not in ["background", "label", "style", "kind"] %}
+    {% if value.more %}
+    {% set more = True %}
+    <details><summary>{{value.more}}</summary>
+    {%endif %}
+    <div class="row m-0 p-0">
+        
+        <div class="col-12 {% if 'tags' in value %}col-md-9 mb-md-0 mb-1{% endif %}">
+        {% if value.heading is not none %}
+        <div class="h5 mb-0 text-left m-0 p-0  ">{{value.heading}}</div>
+        {% endif %}
+        {% if value.heading_details is not none %}
+        <div class="small d-inline-block ">
+            {{ value.heading_details }}
+            {% if value.notes %}
+            <span class="d-inline-block text-secondary small">&#8212;{{ value.notes }}</span>
+            {% endif %}
+        </div>
+        {% endif %}
+        </div>
+        {% if 'tags' in value %}
+        <div class="col-12 col-md-3 text-center align-middle m-auto">{{markdown(value.tags)}}</div>
+        {% endif %}
+    </div>
+    {% if value.content %}
+    <div class="row m-0 p-0 {% if value.tags is not none %}mt-2 mt-md-0{%endif%}">
+    {{markdown(value.content)}}
+    </div>
+    {% endif %}
+    {% if not loop.last %}
+    <hr class="row mb-3 mt-3 mx-5 p-0">
+    {% endif %}
+    {% if loop.last and more is not none %}
+    </details>
+    {% endif %}
+    {% endfor %}
+
+</div>

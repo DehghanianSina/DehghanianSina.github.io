@@ -1,0 +1,27 @@
+research:
+  label: <i class="fas fa-university"></i> Academic Experience
+  sub-label: false
+  template: 
+    template: templates/experience.html
+    apply: whole
+  db_lab:
+    heading: Lab Instructor and chief of TAs
+    heading_details: |
+      Database Lab
+    heading_tag: Sep. 2017 - Jan. 2018
+    content: |
+      Holding regular sessions for Database lab. and teaching SQL. |
+      Acting as a team leader of other instructors and coordinating plenty of sessions to show other instructors how to teach and communicate with students.
+  se_lab:
+    heading: Lab Instructor
+    heading_details: Undergraduate Labs
+    heading_tag: Sep. 2014 - Dec. 2017
+    content: |
+      Lab instructor of plenty of undergraduate labs including: Database lab, Software Engineering lab, and Fundamentals of Programming lab
+  ta:
+    heading:  Teaching Assistant
+    heading_details: |
+      Undergraduate Courses
+    heading_tag: Jan. 2017 - Jun. 2017
+    content: |
+      Teaching Assistant (TA) of plenty of undergraduate courses including: Information Technology Ethics, Information Technology Fundamentals

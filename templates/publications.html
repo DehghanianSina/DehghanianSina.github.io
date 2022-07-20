@@ -1,0 +1,35 @@
+<div class="container-fluid">
+    {% for key, value in obj.items() if key not in ["background", "label", "style", "kind"] %}
+    <div class="row m-0 p-0">
+        <div class="col-12 {% if 'tags' in value %}col-md-9 mb-md-0 mb-1{% endif %}">
+        {% if value.title is not none %}
+        <div class="h5 mb-0 text-left m-0 p-0  ">{{value.title}}</div>
+        {% endif %}
+        {% if value.authors is not none %}
+        <div class="small d-inline-block ">
+            {% set authors = value.authors if value.authors is not none else [] %}
+            {% for author in authors %}
+            <{% if author.link %}a href="{{author.link}}"{%else%}span{%endif%} {% if not author.me %}class="text-secondary"{% else %}class="text-dark"{%endif%}>
+                {{ author.me if author.me else author.name if author is mapping and author.name is not none else author }}</{% if author.link %}a{%else%}span{%endif%}>{% if not loop.last %},{% endif %}
+            {% endfor %}
+            {% if value.authors_notes %}
+            <span class="d-inline-block text-secondary small">&#8212;{{ value.authors_notes }}</span>
+            {% endif %}
+        </div>
+        {% endif %}
+        </div>
+        {% if 'tags' in value %}
+        <div class="col-12 col-md-3 text-center align-middle m-auto">{{markdown(value.tags)}}</div>
+        {% endif %}
+    </div>
+    {% if value.content %}
+    <div class="row m-0 p-0 {% if value.tags is not none %}mt-2 mt-md-0{%endif%}">
+    {{markdown(value.content)}}
+    </div>
+    {% endif %}
+    {% if not loop.last %}
+    <hr class="row mb-3 mt-3 mx-5 p-0">
+    {% endif %}
+    {% endfor %}
+
+</div>

@@ -1,0 +1,75 @@
+work:
+  label: <i class="fas fa-briefcase"></i> Work Experience
+  sub-label: false
+  template:
+    template: templates/experience.html
+    apply: whole
+  Roomvu:
+    heading: |
+      <a href="https://roomvu.com/" class="text-dark">Roomvu</a>
+    heading_details: Data Analyst
+    heading_tag: Jun. 2022 - now
+    content: |
+      working as a Data Analyst with TnP (Tech and Product) teams.
+  Revolut:
+    heading: |
+      <a href="https://revolut.com/" class="text-dark">Revolut</a>
+    heading_details: Data Analyst
+    heading_tag: Feb. 2022 - May. 2022
+    content: |
+      Revolut is the most successful fintech company in Europe.
+
+      - working as a Financial Data Analyst at Finance Department.
+      - Preparing Dashboards for reporting to board members.
+      - Creating and maintaining ETLs using Airflow.
+      - Analysing reconciliations and finding the root cause by querying the large databases.
+  Digikala:
+    heading: <a href="https://digikala.com" class="text-dark">Digikala</a>
+    heading_details: Data Analyst
+    heading_tag: Mar. 2021 - Jan. 2022 
+    content: |
+      Digikala is the largest online marketplace and retail in the middle east (Yahoo finance reports).
+
+      - Working as a Business Data Analyst and negotiating with stakeholders to present analytical insights and formulate their requirements to KPIs and metrics with a critical attitude.
+      - Accelerate dashboard publishing time and reduce it from one month to two weeks on average by restructuring the processes and utilizing novel tools for task management in the team.
+      - Redesign location-based dashboards by launching a brand-new map platform with customized layers.
+      - Initiate using git in the team and held a two-week workshop to instruct teammates.
+      - Tackle business challenges by using advanced analytical approaches, e.g., train a machine learning model to predict the churn probability of the fleet.
+      - Explore, prepare, and clean various data sources using SQL and Python for ad-hoc analysis and preparing reports in spreadsheets or visualize the results in PowerBI.
+  Balad_Data:
+    heading: |
+      <a href="https://baladmaps.com/" class="text-dark">Balad Maps</a>
+    heading_details: Data Analyst
+    heading_tag: Apr. 2020 - Feb. 2021
+    content: |
+      Balad is the leading Persian maps and navigation service in Iran.
+
+      - Working as a Product Data Analyst with Product Managers to formulated their requests to measurable metrics and KPIs.
+      - Developed various dashboards from the ground up in Apache Superset that are used by stakeholders every day.
+      - Collaborated with the marketing team for ad-hoc analysis and finding the optimal targets of campaigns.
+      - Designed and implemented ETLs in Python scripts and automated them by defining DAG jobs in Apache Airflow to save time and reducing the effort of manually handling them.
+      - Used git for version control in team projects.
+
+  Balad_QA:
+    heading: |
+      <a href="https://baladmaps.com/" class="text-dark">Balad Maps</a>
+    heading_details: Software QA Engineer
+    heading_tag: Oct. 2018 - Apr. 2020
+    content: |
+      Balad is the leading Persian maps and navigation service in Iran.
+
+      - Working as a Software QA Engineer with client team. 
+      - Defined the QA requirements and guidelines by negotiating with product managers.
+      - Established the first test scenario document with attention to all details and functions.
+      - Shaped the recruitment pipeline, interviewed more than 50 candidates for the QA specialist position, and hired ten new employees.
+      - Mentored new joiners, getting them onboarded, and assigned them to teams.
+  RNS:
+    heading: Raya Navid Systems
+    heading_details: BI Developer
+    heading_tag: Jul. 2018 - Oct. 2018
+    content: |
+      working as a BI Developer to design, develope, and maintain BPMS systems.
+      
+      - Designing business processes using BPMN.
+      - Developing insightful reports using JasperReports and Pentaho.
+      - Working on API testing with Postman.
