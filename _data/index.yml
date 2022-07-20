@@ -1,0 +1,504 @@
+title: Sina Dehghanian
+header:
+  title: <p>Sina Dehghanian</p>
+  description: "<p><em>My personal blog and online r\xE9sum\xE9!</em></p>"
+meta:
+- name: keywords
+  content: Sina Dehghanian, Isfahan University of Technology, Sina, Dehghanian, Data
+    Analyst, Data Analysis, SQL, Python, git, fog computing, cloud computing, reinforcement
+    learning, Revolut, Roomvu, Digikala
+- name: author
+  content: Sina Dehghanian
+- name: robots
+  content: index, follow
+- name: revisit-after
+  content: 30 days
+- name: language
+  content: English
+- name: google-site-verification
+  content: wWUFZdsK_Z4_Dc7uB1Wnny-v1CRnVjDGKr3asuyKzdU
+config:
+  google_analytics_id: G-V54NKH9RWD
+  search:
+    content: false
+    links: false
+nav:
+  fixed:
+  - link: https://dehghanian.ece.iut.ac.ir/
+    icon: fas fa-globe
+    text: website
+  - link: mailto:s.dehghanian@roomvu.co
+    icon: fas fa-envelope
+    text: Email
+  - link: https://linkedin.com/in/SinaDehghanian
+    icon: fab fa-linkedin
+    text: LinkedIn
+  - link: https://github.com/DehghanianSina
+    icon: fab fa-github
+    text: Github
+  - link: https://t.me/Dehghanian_Sina
+    icon: fab fa-telegram
+    text: Telegram
+search:
+  links: true
+  content: true
+bio:
+  label: <i class="fas fa-info"></i> About Me
+  content: "<p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0\
+    \ d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/DehghanianSina.png\"\
+    \ width=\"150em\"/>\nSina Dehghanian is a Data Analyst at Roomvu, an AI-powered\
+    \ automated video marketing for real estate professionals which produces and publishes\
+    \ unique video content to an agent's social media channels.. \nPrior to this he\
+    \ worked as Data Analyst at world-class companies including Revolut (the largest\
+    \ fintech company in Europe), Digikala (the leading E-commerce company in Iran),\
+    \ and Balad Maps (a company from Hezardashtan Holding, owner of Cafebazaar and\
+    \ Divar).\nHe focuses on Data Analysis and Data Visualization. His main tools\
+    \ are Python, SQL, and git.</p>\n<p>Sina graduated as a master's student in Artificial\
+    \ Intelligence in the Electrical and Computer Engineering Department at the Isfahan\
+    \ University of Technology (IUT). Under the supervision of Dr. Manshaei at Game\
+    \ Theory &amp; Mechanism Design Research Lab (GTMD). </p>\n<p><strong>Links</strong>:\
+    \ <a class=\"hover-shadow btn btn-light rounded-pill\" href=\"https://dehghanian.ece.iut.ac.ir/\"\
+    ><i aria-hidden=\"true\" class=\"fas fa-globe\"></i> website</a> <a class=\"hover-shadow\
+    \ btn btn-light rounded-pill\" href=\"https://github.com/DehghanianSina\"><i aria-hidden=\"\
+    true\" class=\"fab fa-github\"></i> Github</a> <a class=\"hover-shadow btn btn-light\
+    \ rounded-pill\" href=\"https://linkedin.com/in/SinaDehghanian\"><i aria-hidden=\"\
+    true\" class=\"fab fa-linkedin\"></i> LinkedIn</a> <a class=\"hover-shadow btn\
+    \ btn-light rounded-pill\" href=\"https://t.me/Dehghanian_Sina\"><i aria-hidden=\"\
+    true\" class=\"fab fa-telegram\"></i> Telegram</a> <a class=\"hover-shadow btn\
+    \ btn-light rounded-pill\" href=\"https://drive.google.com/\"><i aria-hidden=\"\
+    true\" class=\"far fa-file-pdf\"></i> CV</a></p>"
+work:
+  content: '<div class="container-fluid">
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://roomvu.com/">Roomvu</a>
+
+    </h5>
+
+    <p class="text-center mb-0 fw-light">Data Analyst</p>
+
+    <p class="text-muted text-center small">Jun. 2022 - now</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>working as a Data Analyst with TnP (Tech and Product)
+    teams.</p></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://revolut.com/">Revolut</a>
+
+    </h5>
+
+    <p class="text-center mb-0 fw-light">Data Analyst</p>
+
+    <p class="text-muted text-center small">Feb. 2022 - May. 2022</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>Revolut is the most successful fintech company
+    in Europe.</p>
+
+    <ul>
+
+    <li>working as a Financial Data Analyst at Finance Department.</li>
+
+    <li>Preparing Dashboards for reporting to board members.</li>
+
+    <li>Creating and maintaining ETLs using Airflow.</li>
+
+    <li>Analysing reconciliations and finding the root cause by querying the large
+    databases.</li>
+
+    </ul></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://digikala.com">Digikala</a></h5>
+
+    <p class="text-center mb-0 fw-light">Data Analyst</p>
+
+    <p class="text-muted text-center small">Mar. 2021 - Jan. 2022</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>Digikala is the largest online marketplace and
+    retail in the middle east (Yahoo finance reports).</p>
+
+    <ul>
+
+    <li>Working as a Business Data Analyst and negotiating with stakeholders to present
+    analytical insights and formulate their requirements to KPIs and metrics with
+    a critical attitude.</li>
+
+    <li>Accelerate dashboard publishing time and reduce it from one month to two weeks
+    on average by restructuring the processes and utilizing novel tools for task management
+    in the team.</li>
+
+    <li>Redesign location-based dashboards by launching a brand-new map platform with
+    customized layers.</li>
+
+    <li>Initiate using git in the team and held a two-week workshop to instruct teammates.</li>
+
+    <li>Tackle business challenges by using advanced analytical approaches, e.g.,
+    train a machine learning model to predict the churn probability of the fleet.</li>
+
+    <li>Explore, prepare, and clean various data sources using SQL and Python for
+    ad-hoc analysis and preparing reports in spreadsheets or visualize the results
+    in PowerBI.</li>
+
+    </ul></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://baladmaps.com/">Balad
+    Maps</a>
+
+    </h5>
+
+    <p class="text-center mb-0 fw-light">Data Analyst</p>
+
+    <p class="text-muted text-center small">Apr. 2020 - Feb. 2021</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>Balad is the leading Persian maps and navigation
+    service in Iran.</p>
+
+    <ul>
+
+    <li>Working as a Product Data Analyst with Product Managers to formulated their
+    requests to measurable metrics and KPIs.</li>
+
+    <li>Developed various dashboards from the ground up in Apache Superset that are
+    used by stakeholders every day.</li>
+
+    <li>Collaborated with the marketing team for ad-hoc analysis and finding the optimal
+    targets of campaigns.</li>
+
+    <li>Designed and implemented ETLs in Python scripts and automated them by defining
+    DAG jobs in Apache Airflow to save time and reducing the effort of manually handling
+    them.</li>
+
+    <li>Used git for version control in team projects.</li>
+
+    </ul></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://baladmaps.com/">Balad
+    Maps</a>
+
+    </h5>
+
+    <p class="text-center mb-0 fw-light">Software QA Engineer</p>
+
+    <p class="text-muted text-center small">Oct. 2018 - Apr. 2020</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>Balad is the leading Persian maps and navigation
+    service in Iran.</p>
+
+    <ul>
+
+    <li>Working as a Software QA Engineer with client team. </li>
+
+    <li>Defined the QA requirements and guidelines by negotiating with product managers.</li>
+
+    <li>Established the first test scenario document with attention to all details
+    and functions.</li>
+
+    <li>Shaped the recruitment pipeline, interviewed more than 50 candidates for the
+    QA specialist position, and hired ten new employees.</li>
+
+    <li>Mentored new joiners, getting them onboarded, and assigned them to teams.</li>
+
+    </ul></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0">Raya Navid Systems</h5>
+
+    <p class="text-center mb-0 fw-light">BI Developer</p>
+
+    <p class="text-muted text-center small">Jul. 2018 - Oct. 2018</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>working as a BI Developer to design, develope,
+    and maintain BPMS systems.</p>
+
+    <ul>
+
+    <li>Designing business processes using BPMN.</li>
+
+    <li>Developing insightful reports using JasperReports and Pentaho.</li>
+
+    <li>Working on API testing with Postman.</li>
+
+    </ul></div>
+
+    </div>
+
+    </div>'
+  label: <i class="fas fa-briefcase"></i> Work Experience
+education:
+  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"https://english.iut.ac.ir/\">Isfahan University of Technology</a></h5>\n\
+    <p class=\"text-center mb-0 fw-light\">M.Sc in <a class=\"text-dark\" href=\"\
+    https://ece.iut.ac.ir/en\">Artificial Intelligence</a></p>\n<p class=\"text-muted\
+    \ text-center small\">Sep. 2016 - Jul. 2019</p>\n</div>\n<div class=\"col-12 col-md-8\"\
+    ><ul>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\"\
+    \ style=\"cursor: pointer;\">Thesis:</span></strong> \n  Workload Offloading in\
+    \ Fog Computing: A Cooperative Approach <small class=\"text-secondary\">, </small></li>\n\
+    <li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\">Supervisior:</span></strong> Dr. Manshaei,</li>\n<li><strong><span\
+    \ data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\"\
+    >Short Description:</span></strong>\nUsing Reinforcement Learning methods like\
+    \ Q-Learning for optimizing workload offloading in the\nFog Computing paradigm\
+    \ in terms of delay and QoS.</li>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Abstract:</span></strong>\
+    \ You can find my thesis abstract and its first chapter on my academic website\
+    \ from <a href=\"https://dehghanian.ece.iut.ac.ir/content/msc-thesis-workload-offloading-fog-computing-cooperative-approach\"\
+    >here</a></li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\">IUT Thesis Repository:</span></strong> You\
+    \ can check my thesis in the IUT Thesis repository <a href=\"https://thesis.iut.ac.ir/workload-offloading-fog-computing-cooperative-approachsina-dehghanian-nasrabadi\"\
+    >here</a></li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
+    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://english.iut.ac.ir/\"\
+    >Isfahan University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    >B.Sc in <a class=\"text-dark\" href=\"https://ece.iut.ac.ir/en\">Computer Engineering</a></p>\n\
+    <p class=\"text-muted text-center small\">Sep. 2012 - Jun. 2016</p>\n</div>\n\
+    <div class=\"col-12 col-md-8\"><ul>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Project:</span></strong>\
+    \ \n  Mining Web Data in the field of E-Commerce <small class=\"text-secondary\"\
+    >, </small></li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\">Supervisior:</span></strong> Dr. Ghadiri,</li>\n\
+    <li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\">Short Description:</span></strong>\nPerforming sentiment analysis\
+    \ on Persian comments published on one of the biggest E-commerce\nwebsites and\
+    \ classifying each comment.</li>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Abstract:</span></strong>\
+    \ You can find my project abstract along with its first chapter on my academic\
+    \ website from <a href=\"https://dehghanian.ece.iut.ac.ir/content/mining-web-data-field-e-commerce\"\
+    >here</a></li>\n</ul></div>\n</div>\n</div>"
+  label: <i class="fas fa-graduation-cap"></i> Education
+research:
+  content: '<div class="container-fluid">
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0">Lab Instructor and chief of TAs</h5>
+
+    <p class="text-center mb-0 fw-light">Database Lab
+
+    </p>
+
+    <p class="text-muted text-center small">Sep. 2017 - Jan. 2018</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>Holding regular sessions for Database lab. and
+    teaching SQL. |
+
+    Acting as a team leader of other instructors and coordinating plenty of sessions
+    to show other instructors how to teach and communicate with students.</p></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0">Lab Instructor</h5>
+
+    <p class="text-center mb-0 fw-light">Undergraduate Labs</p>
+
+    <p class="text-muted text-center small">Sep. 2014 - Dec. 2017</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>Lab instructor of plenty of undergraduate labs
+    including: Database lab, Software Engineering lab, and Fundamentals of Programming
+    lab</p></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0">Teaching Assistant</h5>
+
+    <p class="text-center mb-0 fw-light">Undergraduate Courses
+
+    </p>
+
+    <p class="text-muted text-center small">Jan. 2017 - Jun. 2017</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>Teaching Assistant (TA) of plenty of undergraduate
+    courses including: Information Technology Ethics, Information Technology Fundamentals</p></div>
+
+    </div>
+
+    </div>'
+  label: <i class="fas fa-university"></i> Academic Experience
+volunteer:
+  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Member of the Scientific\
+    \ Committee</h5>\n<p class=\"text-center mb-0 fw-light\"><a class=\"text-dark\"\
+    \ href=\"https://datadays.ir/\">Datadays2021</a></p>\n<p class=\"text-muted text-center\
+    \ small\">Dec. 2020 - Jun. 2021</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>Datadays2021,\
+    \ Sharif University of Technology\nThe responsibility of the scientific committee\
+    \ is to design and evaluate the best challenge and solution for the Datadays 2021\
+    \ contest. As a scientific staff, my team and I define the best metric for the\
+    \ data-related challenge and develop the baseline model for the problem. \nDatadays\
+    \ Challenge on RoboEpics https://roboepics.com/c/DataDays2021</p></div>\n</div>\n\
+    <hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div\
+    \ class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Member of\
+    \ the Executive and Scientific Committee</h5>\n<p class=\"text-center mb-0 fw-light\"\
+    ><a href=\"https://mvip2017.iut.ac.ir/\" text-dark\"=\"\">MVIP2017</a></p>\n<p\
+    \ class=\"text-muted text-center small\">Apr. 2017 - Nov. 2017</p>\n</div>\n<div\
+    \ class=\"col-12 col-md-8\"><p>MVIP2017 conference, Isfahan University of Technology\n\
+    Member of the executive and scientific committee\nHead of the management team\n\
+    www.MVIP2017.iut.ac.ir</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
+    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
+    mb-0 text-center m-0 p-0\">Senior Editor</h5>\n<p class=\"text-center mb-0 fw-light\"\
+    >Database Lab Instrution</p>\n<p class=\"text-muted text-center small\">Jun. 2016\
+    \ - Sep. 2017</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>As an instructor\
+    \ and chief of teaching assistants (TA), I had a chance to edit and publish two\
+    \ versions of the \"Database Lab Instruction.\" This document is used as the primary\
+    \ instruction for teaching SQL and practical drills for students across all lab\
+    \ groups.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n\
+    <div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center\
+    \ m-0 p-0\">Executive Member of Welcoming Committee of New Students</h5>\n<p class=\"\
+    text-center mb-0 fw-light\">Isfahan University of Technology</p>\n<p class=\"\
+    text-muted text-center small\">Aug. 2014 - Sep. 2016</p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><p>It is clear that in the first year, first-year students need\
+    \ to be supported in both academic aspects and social fields. In this plan, the\
+    \ senior or junior B.Sc. students help the freshmen during their entrance of the\
+    \ university. I have been a member of this committee for two courses of holding.\
+    \ Some of my activities include holding orientation days, supporting and mentoring\
+    \ first-year students, scheduling and holding different kinds of workshops, holding\
+    \ scientific visits, and managing the meetings with professors.\nfor more information\
+    \ you can visit: http://hoda.farhangi.iut.ac.ir/</p></div>\n</div>\n</div>"
+  label: <i class="fas fa-hands-helping"></i> Volunteer Experience
+skills:
+  label: <i class="fas fa-tools"></i> Skills
+  leading:
+    label: Leadership and Management
+    content: <p>From public speaking, to mentoring, to coordination of people and
+      events, I can lead in any context.</p>
+  technical:
+    label: Technical Skills
+    content: "<p><strong>General Programming Skills</strong>: \n  Python, C/C++, Java,\
+      \ R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine Learning Tools</strong>:\
+      \ Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision, captum), \n  SciPy\
+      \ (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract OCR</p>\n<p><strong>Distribution\
+      \ &amp; Deployment Tools</strong>: Slurm, Kubernetes, Docker, GH Workflows</p>\n\
+      <p><strong>Data management &amp; Databases</strong>: MySQL, SQLite, PostgreSLQL,\
+      \ MongoDB, Redis</p>\n<p><strong>Web Development</strong>: Django, Flask, Vue.js,\
+      \ Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>CAD Tools &amp; HDLs</strong>:\
+      \ Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design Tools</strong>:\
+      \ Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
+      \ Unix ecosystem familiarity, Git (Version Control), LaTex</p>"
+  languages:
+    label: Languages
+    content: '<p><strong>Farsi</strong>: Native, <strong>English</strong>: Advanced
+      <small class="text-secondary">(IELTS Academic: C1 level)</small></p>'
+honor:
+  content: '<div class="container-fluid">
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0">Direct Admission</h5>
+
+    <p class="text-center mb-0 fw-light">Directly admitted to the master due to top
+    graduation rank in bachelor</p>
+
+    <p class="text-muted text-center small"></p>
+
+    </div>
+
+    </div>
+
+    <div class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"></div>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0">Top Graduation</h5>
+
+    <p class="text-center mb-0 fw-light">Ranked top 10% of graduates at the master</p>
+
+    <p class="text-muted text-center small"></p>
+
+    </div>
+
+    </div>
+
+    <div class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"></div>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0">Top Graduation</h5>
+
+    <p class="text-center mb-0 fw-light">Ranked top 10% of graduates at the bachelor</p>
+
+    <p class="text-muted text-center small"></p>
+
+    </div>
+
+    </div>
+
+    </div>'
+  label: <i class="fas fa-award"></i> Honors
+kind: Index
