@@ -1,18 +1,39 @@
-brand:
-  text: Q Glance
-  link: /
-content:
-  - index: index/index
-    text: Home
-  - index: index/sections/work/index
-    text: Work Experiences
-  - index: index/sections/education/index
-    icon: fas fa-graduation-cap
-    text: Educations
-  - index: index/sections/academic/index
-    icon: fas fa-chalkboard-teacher
-    text: Academic Experiences
-  - index: index/sections/volunteer/index
-    icon: fas fa-hands-helping
-    text: Volunteer Experience
+nav:
+  fixed:
+    - link: 'https://dehghanian.ece.iut.ac.ir/'
+      icon: fas fa-globe
+      text: website
+    - link: mailto:s.dehghanian@roomvu.co
+      icon: fas fa-envelope
+      text: Email
+    - link: https://linkedin.com/in/SinaDehghanian
+      icon: fab fa-linkedin
+      text: LinkedIn
+    - link: https://github.com/DehghanianSina
+      icon: fab fa-github
+      text: Github
+    - link: https://t.me/Dehghanian_Sina
+      icon: fab fa-telegram
+      text: Telegram
+    - index: index/sections/work/index
+      icon: fas fa-briefcase
+      text: Work Experiences
+
+# brand:
+#   text: Q Glance
+#   link: /
+# content:
+#   - index: index/index
+#     text: Home
+#   - index: index/sections/work/index
+#     text: Work Experiences
+#   - index: index/sections/education/index
+#     icon: fas fa-graduation-cap
+#     text: Educations
+#   - index: index/sections/academic/index
+#     icon: fas fa-chalkboard-teacher
+#     text: Academic Experiences
+#   - index: index/sections/volunteer/index
+#     icon: fas fa-hands-helping
+#     text: Volunteer Experience
   
