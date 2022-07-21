@@ -17,20 +17,20 @@
 #       text: Telegram
 
 brand:
-  text: Q Glance
-  link: index/index
-content:
-  - index: index/index
-    text: Home
-  - index: index/sections/work/index
-    text: Work Experiences
-  - index: index/sections/education/index
-    icon: fas fa-graduation-cap
-    text: Educations
-  - index: index/sections/academic/index
-    icon: fas fa-chalkboard-teacher
-    text: Academic Experiences
-  - index: index/sections/volunteer/index
-    icon: fas fa-hands-helping
-    text: Volunteer Experience
+    text: Q Glance
+    link: index/index
+  content:
+    - index: index/index
+      text: Home
+    - index: index/sections/work/index
+      text: Work Experiences
+    - index: index/sections/education/index
+      icon: fas fa-graduation-cap
+      text: Educations
+    - index: index/sections/academic/index
+      icon: fas fa-chalkboard-teacher
+      text: Academic Experiences
+    - index: index/sections/volunteer/index
+      icon: fas fa-hands-helping
+      text: Volunteer Experience
   
