@@ -6,7 +6,7 @@
 - name: robots
   content: index, follow
 - name: revisit-after
-  content: 30 days
+  content: 15 days
 - name: language
   content: English
 - name: google-site-verification

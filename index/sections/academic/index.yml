@@ -1,5 +1,5 @@
 research:
-  label: <i class="fas fa-university"></i> Academic Experience
+  label: <i class="fas fa-chalkboard-teacher"></i> Academic Experience
   sub-label: false
   template: 
     template: templates/experience.html
