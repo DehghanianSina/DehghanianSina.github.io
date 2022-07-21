@@ -12,7 +12,7 @@ meta:
 - name: robots
   content: index, follow
 - name: revisit-after
-  content: 30 days
+  content: 15 days
 - name: language
   content: English
 - name: google-site-verification
@@ -24,33 +24,21 @@ config:
     links: false
 nav:
   fixed:
-    text: <p>Q Glance</p>
-    link: <p>index/index</p>
-    content:
-    - index: index/index
-      text: Home
-      description: "*My personal blog and online r\xE9sum\xE9!*\n"
-      link: /
-      kind: Index
-    - index: index/sections/work/index
-      text: Work Experiences
-      link: /index/sections/work/
-      kind: Index
-    - index: index/sections/education/index
-      icon: fas fa-graduation-cap
-      text: Educations
-      link: /index/sections/education/
-      kind: Index
-    - index: index/sections/academic/index
-      icon: fas fa-chalkboard-teacher
-      text: Academic Experiences
-      link: /index/sections/academic/
-      kind: Index
-    - index: index/sections/volunteer/index
-      icon: fas fa-hands-helping
-      text: Volunteer Experience
-      link: /index/sections/volunteer/
-      kind: Index
+  - link: https://dehghanian.ece.iut.ac.ir/
+    icon: fas fa-globe
+    text: website
+  - link: mailto:s.dehghanian@roomvu.co
+    icon: fas fa-envelope
+    text: Email
+  - link: https://linkedin.com/in/SinaDehghanian
+    icon: fab fa-linkedin
+    text: LinkedIn
+  - link: https://github.com/DehghanianSina
+    icon: fab fa-github
+    text: Github
+  - link: https://t.me/DehghanianSina
+    icon: fab fa-telegram
+    text: Telegram
 search:
   links: true
   content: true
@@ -60,7 +48,7 @@ bio:
     \ d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/DehghanianSina.png\"\
     \ width=\"150em\"/>\nSina Dehghanian is a Data Analyst at Roomvu, an AI-powered\
     \ automated video marketing for real estate professionals which produces and publishes\
-    \ unique video content to an agent's social media channels.. \nPrior to this he\
+    \ unique video content to an agent's social media channels. \nPrior to this he\
     \ worked as Data Analyst at world-class companies including Revolut (the largest\
     \ fintech company in Europe), Digikala (the leading E-commerce company in Iran),\
     \ and Balad Maps (a company from Hezardashtan Holding, owner of Cafebazaar and\
@@ -397,7 +385,7 @@ research:
     </div>
 
     </div>'
-  label: <i class="fas fa-university"></i> Academic Experience
+  label: <i class="fas fa-chalkboard-teacher"></i> Academic Experience
 volunteer:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Member of the Scientific\
@@ -437,7 +425,7 @@ volunteer:
     \ first-year students, scheduling and holding different kinds of workshops, holding\
     \ scientific visits, and managing the meetings with professors.\nfor more information\
     \ you can visit: http://hoda.farhangi.iut.ac.ir/</p></div>\n</div>\n</div>"
-  label: <i class="fas fa-hands-helping"></i> Volunteer Experience
+  label: <i class="fas fa-hands-helping"></i> Volunteer Experiences
 skills:
   label: <i class="fas fa-tools"></i> Skills
   leading:
