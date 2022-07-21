@@ -22,23 +22,34 @@ config:
   search:
     content: false
     links: false
-nav:
-  fixed:
-  - link: https://dehghanian.ece.iut.ac.ir/
-    icon: fas fa-globe
-    text: website
-  - link: mailto:s.dehghanian@roomvu.co
-    icon: fas fa-envelope
-    text: Email
-  - link: https://linkedin.com/in/SinaDehghanian
-    icon: fab fa-linkedin
-    text: LinkedIn
-  - link: https://github.com/DehghanianSina
-    icon: fab fa-github
-    text: Github
-  - link: https://t.me/DehghanianSina
-    icon: fab fa-telegram
-    text: Telegram
+brand:
+  text: <p>Q Glance</p>
+  link: <p>index/index</p>
+content:
+- index: index/index
+  text: Home
+  description: "*My personal blog and online r\xE9sum\xE9!*\n"
+  link: /
+  kind: Index
+- index: index/sections/work/index
+  text: Work Experiences
+  link: /index/sections/work/
+  kind: Index
+- index: index/sections/education/index
+  icon: fas fa-graduation-cap
+  text: Educations
+  link: /index/sections/education/
+  kind: Index
+- index: index/sections/academic/index
+  icon: fas fa-chalkboard-teacher
+  text: Academic Experiences
+  link: /index/sections/academic/
+  kind: Index
+- index: index/sections/volunteer/index
+  icon: fas fa-hands-helping
+  text: Volunteer Experience
+  link: /index/sections/volunteer/
+  kind: Index
 search:
   links: true
   content: true
