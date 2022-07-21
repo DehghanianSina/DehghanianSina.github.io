@@ -22,34 +22,35 @@ config:
   search:
     content: false
     links: false
-brand:
-  text: <p>Q Glance</p>
-  link: <p>index/index</p>
-content:
-- index: index/index
-  text: Home
-  description: "*My personal blog and online r\xE9sum\xE9!*\n"
-  link: /
-  kind: Index
-- index: index/sections/work/index
-  text: Work Experiences
-  link: /index/sections/work/
-  kind: Index
-- index: index/sections/education/index
-  icon: fas fa-graduation-cap
-  text: Educations
-  link: /index/sections/education/
-  kind: Index
-- index: index/sections/academic/index
-  icon: fas fa-chalkboard-teacher
-  text: Academic Experiences
-  link: /index/sections/academic/
-  kind: Index
-- index: index/sections/volunteer/index
-  icon: fas fa-hands-helping
-  text: Volunteer Experience
-  link: /index/sections/volunteer/
-  kind: Index
+nav:
+  fixed:
+    text: <p>Q Glance</p>
+    link: <p>index/index</p>
+    content:
+    - index: index/index
+      text: Home
+      description: "*My personal blog and online r\xE9sum\xE9!*\n"
+      link: /
+      kind: Index
+    - index: index/sections/work/index
+      text: Work Experiences
+      link: /index/sections/work/
+      kind: Index
+    - index: index/sections/education/index
+      icon: fas fa-graduation-cap
+      text: Educations
+      link: /index/sections/education/
+      kind: Index
+    - index: index/sections/academic/index
+      icon: fas fa-chalkboard-teacher
+      text: Academic Experiences
+      link: /index/sections/academic/
+      kind: Index
+    - index: index/sections/volunteer/index
+      icon: fas fa-hands-helping
+      text: Volunteer Experience
+      link: /index/sections/volunteer/
+      kind: Index
 search:
   links: true
   content: true
