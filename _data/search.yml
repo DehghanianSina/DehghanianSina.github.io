@@ -1,39 +1,86 @@
 /:
   category: Index
-  content: "<p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0\
-    \ d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/DehghanianSina.png\"\
-    \ width=\"150em\"/>\nSina Dehghanian is a Data Analyst at Roomvu, an AI-powered\
-    \ automated video marketing for real estate professionals which produces and publishes\
-    \ unique video content to an agent's social media channels. \nPrior to this he\
-    \ worked as Data Analyst at world-class companies including Revolut (the first\
-    \ unicorn neo bank in UK, and most valuable fintech company in Europe), Digikala\
-    \ (the leading E-commerce company in Iran), and Balad Maps (a company from Hezardashtan\
-    \ Holding, owner of Cafebazaar and Divar).\nHe focuses on Data Analysis and Data\
-    \ Visualization. His main tools are Python, SQL, and git.</p>\n<p>Sina graduated\
-    \ as a master's student in Artificial Intelligence in the Electrical and Computer\
-    \ Engineering Department at the Isfahan University of Technology (IUT). Under\
-    \ the supervision of Dr. Manshaei at Game Theory &amp; Mechanism Design Research\
-    \ Lab (GTMD). </p>\n<p><strong>Links</strong>: <a class=\"hover-shadow btn btn-light\
-    \ rounded-pill\" href=\"https://dehghanian.ece.iut.ac.ir/\"><i aria-hidden=\"\
-    true\" class=\"fas fa-globe\"></i> website</a> <a class=\"hover-shadow btn btn-light\
-    \ rounded-pill\" href=\"https://github.com/DehghanianSina\"><i aria-hidden=\"\
-    true\" class=\"fab fa-github\"></i> Github</a> <a class=\"hover-shadow btn btn-light\
-    \ rounded-pill\" href=\"https://linkedin.com/in/SinaDehghanian\"><i aria-hidden=\"\
-    true\" class=\"fab fa-linkedin\"></i> LinkedIn</a> <a class=\"hover-shadow btn\
-    \ btn-light rounded-pill\" href=\"https://t.me/Dehghanian_Sina\"><i aria-hidden=\"\
-    true\" class=\"fab fa-telegram\"></i> Telegram</a> <a class=\"hover-shadow btn\
-    \ btn-light rounded-pill\" href=\"https://drive.google.com/\"><i aria-hidden=\"\
-    true\" class=\"far fa-file-pdf\"></i> CV</a></p> <p>Sina Dehghanian</p> <div class=\"\
-    container-fluid\">\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n\
-    <h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://roomvu.com/\"\
-    >Roomvu</a>\n</h5>\n<p class=\"text-center mb-0 fw-light\">Data Analyst</p>\n\
-    <p class=\"text-muted text-center small\">Jun. 2022 - now</p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><p>working as a Data Analyst with TnP (Tech and Product) teams.</p></div>\n\
-    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
-    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
-    \ class=\"text-dark\" href=\"https://revolut.com/\">Revolut</a>\n</h5>\n<p class=\"\
-    text-center mb-0 fw-light\">Data Analyst</p>\n<p class=\"text-muted text-center\
-    \ small\">Feb. 2022 - May. 2022</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>Revolut\
+  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Direct Admission</h5>\n\
+    <p class=\"text-center mb-0 fw-light\">Directly admitted to the master due to\
+    \ top graduation rank in bachelor</p>\n<p class=\"text-muted text-center small\"\
+    ></p>\n</div>\n</div>\n<div class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n\
+    <div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center\
+    \ m-0 p-0\">Top Graduation</h5>\n<p class=\"text-center mb-0 fw-light\">Ranked\
+    \ top 10% of graduates at the master</p>\n<p class=\"text-muted text-center small\"\
+    ></p>\n</div>\n</div>\n<div class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n\
+    <div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center\
+    \ m-0 p-0\">Top Graduation</h5>\n<p class=\"text-center mb-0 fw-light\">Ranked\
+    \ top 10% of graduates at the bachelor</p>\n<p class=\"text-muted text-center\
+    \ small\"></p>\n</div>\n</div>\n</div> <div class=\"container-fluid\">\n<div class=\"\
+    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
+    \ p-0\"><a class=\"text-dark\" href=\"https://english.iut.ac.ir/\">Isfahan University\
+    \ of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\">M.Sc in <a class=\"\
+    text-dark\" href=\"https://ece.iut.ac.ir/en\">Artificial Intelligence</a></p>\n\
+    <p class=\"text-muted text-center small\">Sep. 2016 - Jul. 2019</p>\n</div>\n\
+    <div class=\"col-12 col-md-8\"><ul>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Thesis:</span></strong>\
+    \ \n  Workload Offloading in Fog Computing: A Cooperative Approach <small class=\"\
+    text-secondary\">, </small></li>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Supervisior:</span></strong>\
+    \ Dr. Manshaei,</li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\">Short Description:</span></strong>\nUsing\
+    \ Reinforcement Learning methods like Q-Learning for optimizing workload offloading\
+    \ in the\nFog Computing paradigm in terms of delay and QoS.</li>\n<li><strong><span\
+    \ data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\"\
+    >Abstract:</span></strong> You can find my thesis abstract and its first chapter\
+    \ on my academic website from <a href=\"https://dehghanian.ece.iut.ac.ir/content/msc-thesis-workload-offloading-fog-computing-cooperative-approach\"\
+    >here</a></li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\">IUT Thesis Repository:</span></strong> You\
+    \ can check my thesis in the IUT Thesis repository <a href=\"https://thesis.iut.ac.ir/workload-offloading-fog-computing-cooperative-approachsina-dehghanian-nasrabadi\"\
+    >here</a></li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
+    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://english.iut.ac.ir/\"\
+    >Isfahan University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    >B.Sc in <a class=\"text-dark\" href=\"https://ece.iut.ac.ir/en\">Computer Engineering</a></p>\n\
+    <p class=\"text-muted text-center small\">Sep. 2012 - Jun. 2016</p>\n</div>\n\
+    <div class=\"col-12 col-md-8\"><ul>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Project:</span></strong>\
+    \ \n  Mining Web Data in the field of E-Commerce <small class=\"text-secondary\"\
+    >, </small></li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\">Supervisior:</span></strong> Dr. Ghadiri,</li>\n\
+    <li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\">Short Description:</span></strong>\nPerforming sentiment analysis\
+    \ on Persian comments published on one of the biggest E-commerce\nwebsites and\
+    \ classifying each comment.</li>\n<li><strong><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Abstract:</span></strong>\
+    \ You can find my project abstract along with its first chapter on my academic\
+    \ website from <a href=\"https://dehghanian.ece.iut.ac.ir/content/mining-web-data-field-e-commerce\"\
+    >here</a></li>\n</ul></div>\n</div>\n</div> <p><strong>General Programming Skills</strong>:\
+    \ \n  Python, C/C++, Java, R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine\
+    \ Learning Tools</strong>: Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision,\
+    \ captum), \n  SciPy (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract\
+    \ OCR</p>\n<p><strong>Distribution &amp; Deployment Tools</strong>: Slurm, Kubernetes,\
+    \ Docker, GH Workflows</p>\n<p><strong>Data management &amp; Databases</strong>:\
+    \ MySQL, SQLite, PostgreSLQL, MongoDB, Redis</p>\n<p><strong>Web Development</strong>:\
+    \ Django, Flask, Vue.js, Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>CAD Tools\
+    \ &amp; HDLs</strong>: Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design\
+    \ Tools</strong>: Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
+    \ Unix ecosystem familiarity, Git (Version Control), LaTex</p> <p><strong>Farsi</strong>:\
+    \ Native, <strong>English</strong>: Advanced <small class=\"text-secondary\">(IELTS\
+    \ Academic: C1 level)</small></p> <p><em>My personal blog and online r\xE9sum\xE9\
+    !</em></p> <div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"https://roomvu.com/\">Roomvu</a>\n</h5>\n<p class=\"text-center mb-0\
+    \ fw-light\">Data Analyst</p>\n<p class=\"text-muted text-center small\">Jun.\
+    \ 2022 - now</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>Roomvu is an AI-powered\
+    \ automated video marketing tool for real-estate agencis.</p>\n<ul>\n<li>Designing\
+    \ dashboards in collaboration with T\\&amp;P (Tech and Product) teams.</li>\n\
+    <li>Strong collaboration with the CEO and board members.</li>\n<li>Working as\
+    \ a Data Engineer in the Data Analytics Team, developing the first ETL pipeline\
+    \ using Airflow, Python, and SQL.</li>\n<li>Creating numerous funnels to track\
+    \ the conversion of various KPIs.</li>\n<li>Developing certain BOTs for automating,\
+    \ monitoring, and reporting dashboards and KPIs.</li>\n</ul></div>\n</div>\n<hr\
+    \ class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div\
+    \ class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"\
+    text-dark\" href=\"https://revolut.com/\">Revolut</a>\n</h5>\n<p class=\"text-center\
+    \ mb-0 fw-light\">Data Analyst</p>\n<p class=\"text-muted text-center small\"\
+    >Feb. 2022 - May. 2022</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>Revolut\
     \ is the most successful fintech company in Europe.</p>\n<ul>\n<li>working as\
     \ a Financial Data Analyst at Finance Department.</li>\n<li>Preparing Dashboards\
     \ for reporting to board members.</li>\n<li>Creating and maintaining ETLs using\
@@ -109,28 +156,41 @@
     </p>\n<p class=\"text-muted text-center small\">Jan. 2017 - Jun. 2017</p>\n</div>\n\
     <div class=\"col-12 col-md-8\"><p>Teaching Assistant (TA) of plenty of undergraduate\
     \ courses including: Information Technology Ethics, Information Technology Fundamentals</p></div>\n\
-    </div>\n</div> <p><strong>General Programming Skills</strong>: \n  Python, C/C++,\
-    \ Java, R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine Learning\
-    \ Tools</strong>: Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision,\
-    \ captum), \n  SciPy (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract\
-    \ OCR</p>\n<p><strong>Distribution &amp; Deployment Tools</strong>: Slurm, Kubernetes,\
-    \ Docker, GH Workflows</p>\n<p><strong>Data management &amp; Databases</strong>:\
-    \ MySQL, SQLite, PostgreSLQL, MongoDB, Redis</p>\n<p><strong>Web Development</strong>:\
-    \ Django, Flask, Vue.js, Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>CAD Tools\
-    \ &amp; HDLs</strong>: Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design\
-    \ Tools</strong>: Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
-    \ Unix ecosystem familiarity, Git (Version Control), LaTex</p> <p><strong>Farsi</strong>:\
-    \ Native, <strong>English</strong>: Advanced <small class=\"text-secondary\">(IELTS\
-    \ Academic: C1 level)</small></p> <div class=\"container-fluid\">\n<div class=\"\
-    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
-    \ p-0\">Member of the Scientific Committee</h5>\n<p class=\"text-center mb-0 fw-light\"\
-    ><a class=\"text-dark\" href=\"https://datadays.ir/\">Datadays2021</a></p>\n<p\
-    \ class=\"text-muted text-center small\">Dec. 2020 - Jun. 2021</p>\n</div>\n<div\
-    \ class=\"col-12 col-md-8\"><p>Datadays2021, Sharif University of Technology\n\
-    The responsibility of the scientific committee is to design and evaluate the best\
-    \ challenge and solution for the Datadays 2021 contest. As a scientific staff,\
-    \ my team and I define the best metric for the data-related challenge and develop\
-    \ the baseline model for the problem. \nDatadays Challenge on RoboEpics https://roboepics.com/c/DataDays2021</p></div>\n\
+    </div>\n</div> <p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4\
+    \ mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/DehghanianSina.png\"\
+    \ width=\"150em\"/>\nSina Dehghanian is a Data Analyst at Roomvu, an AI-powered\
+    \ automated video marketing for real estate professionals which produces and publishes\
+    \ unique video content to an agent's social media channels. \nPrior to this he\
+    \ worked as Data Analyst at world-class companies including Revolut (the first\
+    \ unicorn neo bank in UK, and most valuable fintech company in Europe), Digikala\
+    \ (the leading E-commerce company in Iran), and Balad Maps (a company from Hezardashtan\
+    \ Holding, owner of Cafebazaar and Divar).\nHe focuses on Data Analysis and Data\
+    \ Visualization. His main tools are Python, SQL, and git.</p>\n<p>Sina graduated\
+    \ as a master's student in Artificial Intelligence in the Electrical and Computer\
+    \ Engineering Department at the Isfahan University of Technology (IUT). Under\
+    \ the supervision of Dr. Manshaei at Game Theory &amp; Mechanism Design Research\
+    \ Lab (GTMD). </p>\n<p><strong>Links</strong>: <a class=\"hover-shadow btn btn-light\
+    \ rounded-pill\" href=\"https://dehghanian.ece.iut.ac.ir/\"><i aria-hidden=\"\
+    true\" class=\"fas fa-globe\"></i> website</a> <a class=\"hover-shadow btn btn-light\
+    \ rounded-pill\" href=\"https://github.com/DehghanianSina\"><i aria-hidden=\"\
+    true\" class=\"fab fa-github\"></i> Github</a> <a class=\"hover-shadow btn btn-light\
+    \ rounded-pill\" href=\"https://linkedin.com/in/SinaDehghanian\"><i aria-hidden=\"\
+    true\" class=\"fab fa-linkedin\"></i> LinkedIn</a> <a class=\"hover-shadow btn\
+    \ btn-light rounded-pill\" href=\"https://t.me/Dehghanian_Sina\"><i aria-hidden=\"\
+    true\" class=\"fab fa-telegram\"></i> Telegram</a> <a class=\"hover-shadow btn\
+    \ btn-light rounded-pill\" href=\"https://drive.google.com/\"><i aria-hidden=\"\
+    true\" class=\"far fa-file-pdf\"></i> CV</a></p> <p>From public speaking, to mentoring,\
+    \ to coordination of people and events, I can lead in any context.</p> <p>Sina\
+    \ Dehghanian</p> <div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div\
+    \ class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Member of\
+    \ the Scientific Committee</h5>\n<p class=\"text-center mb-0 fw-light\"><a class=\"\
+    text-dark\" href=\"https://datadays.ir/\">Datadays2021</a></p>\n<p class=\"text-muted\
+    \ text-center small\">Dec. 2020 - Jun. 2021</p>\n</div>\n<div class=\"col-12 col-md-8\"\
+    ><p>Datadays2021, Sharif University of Technology\nThe responsibility of the scientific\
+    \ committee is to design and evaluate the best challenge and solution for the\
+    \ Datadays 2021 contest. As a scientific staff, my team and I define the best\
+    \ metric for the data-related challenge and develop the baseline model for the\
+    \ problem. \nDatadays Challenge on RoboEpics https://roboepics.com/c/DataDays2021</p></div>\n\
     </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
     >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Member\
     \ of the Executive and Scientific Committee</h5>\n<p class=\"text-center mb-0\
@@ -158,61 +218,7 @@
     \ Some of my activities include holding orientation days, supporting and mentoring\
     \ first-year students, scheduling and holding different kinds of workshops, holding\
     \ scientific visits, and managing the meetings with professors.\nfor more information\
-    \ you can visit: http://hoda.farhangi.iut.ac.ir/</p></div>\n</div>\n</div> <div\
-    \ class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\"\
-    >\n<h5 class=\"mb-0 text-center m-0 p-0\">Direct Admission</h5>\n<p class=\"text-center\
-    \ mb-0 fw-light\">Directly admitted to the master due to top graduation rank in\
-    \ bachelor</p>\n<p class=\"text-muted text-center small\"></p>\n</div>\n</div>\n\
-    <div class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n<div class=\"row my-0\"\
-    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Top\
-    \ Graduation</h5>\n<p class=\"text-center mb-0 fw-light\">Ranked top 10% of graduates\
-    \ at the master</p>\n<p class=\"text-muted text-center small\"></p>\n</div>\n\
-    </div>\n<div class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n<div class=\"\
-    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
-    \ p-0\">Top Graduation</h5>\n<p class=\"text-center mb-0 fw-light\">Ranked top\
-    \ 10% of graduates at the bachelor</p>\n<p class=\"text-muted text-center small\"\
-    ></p>\n</div>\n</div>\n</div> <p>From public speaking, to mentoring, to coordination\
-    \ of people and events, I can lead in any context.</p> <p><em>My personal blog\
-    \ and online r\xE9sum\xE9!</em></p> <div class=\"container-fluid\">\n<div class=\"\
-    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
-    \ p-0\"><a class=\"text-dark\" href=\"https://english.iut.ac.ir/\">Isfahan University\
-    \ of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\">M.Sc in <a class=\"\
-    text-dark\" href=\"https://ece.iut.ac.ir/en\">Artificial Intelligence</a></p>\n\
-    <p class=\"text-muted text-center small\">Sep. 2016 - Jul. 2019</p>\n</div>\n\
-    <div class=\"col-12 col-md-8\"><ul>\n<li><strong><span data-bs-placement=\"top\"\
-    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Thesis:</span></strong>\
-    \ \n  Workload Offloading in Fog Computing: A Cooperative Approach <small class=\"\
-    text-secondary\">, </small></li>\n<li><strong><span data-bs-placement=\"top\"\
-    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Supervisior:</span></strong>\
-    \ Dr. Manshaei,</li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\">Short Description:</span></strong>\nUsing\
-    \ Reinforcement Learning methods like Q-Learning for optimizing workload offloading\
-    \ in the\nFog Computing paradigm in terms of delay and QoS.</li>\n<li><strong><span\
-    \ data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\"\
-    >Abstract:</span></strong> You can find my thesis abstract and its first chapter\
-    \ on my academic website from <a href=\"https://dehghanian.ece.iut.ac.ir/content/msc-thesis-workload-offloading-fog-computing-cooperative-approach\"\
-    >here</a></li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\">IUT Thesis Repository:</span></strong> You\
-    \ can check my thesis in the IUT Thesis repository <a href=\"https://thesis.iut.ac.ir/workload-offloading-fog-computing-cooperative-approachsina-dehghanian-nasrabadi\"\
-    >here</a></li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
-    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
-    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://english.iut.ac.ir/\"\
-    >Isfahan University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
-    >B.Sc in <a class=\"text-dark\" href=\"https://ece.iut.ac.ir/en\">Computer Engineering</a></p>\n\
-    <p class=\"text-muted text-center small\">Sep. 2012 - Jun. 2016</p>\n</div>\n\
-    <div class=\"col-12 col-md-8\"><ul>\n<li><strong><span data-bs-placement=\"top\"\
-    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Project:</span></strong>\
-    \ \n  Mining Web Data in the field of E-Commerce <small class=\"text-secondary\"\
-    >, </small></li>\n<li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\">Supervisior:</span></strong> Dr. Ghadiri,</li>\n\
-    <li><strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
-    cursor: pointer;\">Short Description:</span></strong>\nPerforming sentiment analysis\
-    \ on Persian comments published on one of the biggest E-commerce\nwebsites and\
-    \ classifying each comment.</li>\n<li><strong><span data-bs-placement=\"top\"\
-    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\">Abstract:</span></strong>\
-    \ You can find my project abstract along with its first chapter on my academic\
-    \ website from <a href=\"https://dehghanian.ece.iut.ac.ir/content/mining-web-data-field-e-commerce\"\
-    >here</a></li>\n</ul></div>\n</div>\n</div>"
+    \ you can visit: http://hoda.farhangi.iut.ac.ir/</p></div>\n</div>\n</div>"
   description: "*My personal blog and online r\xE9sum\xE9!*\n"
   title: Sina Dehghanian
   url: /
