@@ -10,7 +10,13 @@ work:
     heading_details: Data Analyst
     heading_tag: Jun. 2022 - now
     content: |
-      working as a Data Analyst with TnP (Tech and Product) teams.
+      Roomvu is an AI-powered automated video marketing tool for real-estate agencis.
+
+      - Designing dashboards in collaboration with T\&P (Tech and Product) teams.
+      - Strong collaboration with the CEO and board members.
+      - Working as a Data Engineer in the Data Analytics Team, developing the first ETL pipeline using Airflow, Python, and SQL.
+      - Creating numerous funnels to track the conversion of various KPIs.
+      - Developing certain BOTs for automating, monitoring, and reporting dashboards and KPIs.
   Revolut:
     heading: |
       <a href="https://revolut.com/" class="text-dark">Revolut</a>
