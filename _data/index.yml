@@ -25,7 +25,7 @@ meta:
 - name: google-site-verification
   content: wWUFZdsK_Z4_Dc7uB1Wnny-v1CRnVjDGKr3asuyKzdU
 config:
-  google_analytics_id: G-V54NKH9RWD
+  google_analytics_id: G-CV1Q0SPGYD
   search:
     content: false
     links: false
