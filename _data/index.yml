@@ -53,28 +53,35 @@ bio:
   label: <i class="fas fa-info"></i> About Me
   content: "<p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0\
     \ d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/DehghanianSina.png\"\
-    \ width=\"150em\"/>\nSina Dehghanian is a Data Analyst at Roomvu, an AI-powered\
-    \ automated video marketing for real estate professionals which produces and publishes\
-    \ unique video content to an agent's social media channels. \nPrior to this he\
-    \ worked as Data Analyst at world-class companies including Revolut (the first\
-    \ unicorn neo bank in UK, and most valuable fintech company in Europe), Digikala\
-    \ (the leading E-commerce company in Iran), and Balad Maps (a company from Hezardashtan\
-    \ Holding, owner of Cafebazaar and Divar).\nHe focuses on Data Analysis and Data\
-    \ Visualization. His main tools are Python, SQL, and git.</p>\n<p>Sina graduated\
-    \ as a master's student in Artificial Intelligence in the Electrical and Computer\
-    \ Engineering Department at the Isfahan University of Technology (IUT). Under\
-    \ the supervision of Dr. Manshaei at Game Theory &amp; Mechanism Design Research\
-    \ Lab (GTMD). </p>\n<p><strong>Links</strong>: <a class=\"hover-shadow btn btn-light\
-    \ rounded-pill\" href=\"https://dehghanian.ece.iut.ac.ir/\"><i aria-hidden=\"\
-    true\" class=\"fas fa-globe\"></i> website</a> <a class=\"hover-shadow btn btn-light\
-    \ rounded-pill\" href=\"https://github.com/DehghanianSina\"><i aria-hidden=\"\
-    true\" class=\"fab fa-github\"></i> Github</a> <a class=\"hover-shadow btn btn-light\
-    \ rounded-pill\" href=\"https://linkedin.com/in/SinaDehghanian\"><i aria-hidden=\"\
-    true\" class=\"fab fa-linkedin\"></i> LinkedIn</a> <a class=\"hover-shadow btn\
-    \ btn-light rounded-pill\" href=\"https://t.me/Dehghanian_Sina\"><i aria-hidden=\"\
-    true\" class=\"fab fa-telegram\"></i> Telegram</a> <a class=\"hover-shadow btn\
-    \ btn-light rounded-pill\" href=\"https://drive.google.com/\"><i aria-hidden=\"\
-    true\" class=\"far fa-file-pdf\"></i> CV</a></p>"
+    \ width=\"150em\"/>\nThis is Sina Dehghanian. I would like to introduce myself\
+    \ as a detail-oriented and meticulous Data Analyst. I had the wonderful opportunity\
+    \ to work with world-class international and domestic companies as you can find\
+    \ them in my work experiences. \nData analysis and business intelligence (BI)\
+    \ are my main areas of expertise. The main activities I performed during my past\
+    \ positions were extracting insights from large amounts of data using SQL, cleaning\
+    \ and summarizing them using various tools, and then visualizing the findings\
+    \ in order to communicate them with product managers, C-levels, and board members.\
+    \ Over the course of my career, I have had great achievements. My remarkable track\
+    \ record ranges from creating data pipelines from scratch as a data engineer to\
+    \ visualizing and communicating business intelligence findings to C-levels and\
+    \ stakeholders as a data analyst.\nSQL, Python, Git, and visualization tools are\
+    \ my Swiss Army knife for tackling challenges and creating analytical reports\
+    \ for product managers and board members to take action on to build a great product.</p>\n\
+    <p>Sina graduated as a master's student in Artificial Intelligence in the Electrical\
+    \ and Computer Engineering Department at the Isfahan University of Technology\
+    \ (IUT). Under the supervision of Dr. Manshaei at Game Theory &amp; Mechanism\
+    \ Design Research Lab <a href=\"https://gtmd.iut.ac.ir/en/alumni-0\">(GTMD)</a>.\
+    \ </p>\n<p><strong>Links</strong>: <a class=\"hover-shadow btn btn-light rounded-pill\"\
+    \ href=\"https://dehghanian.ece.iut.ac.ir/\"><i aria-hidden=\"true\" class=\"\
+    fas fa-globe\"></i> website</a> <a class=\"hover-shadow btn btn-light rounded-pill\"\
+    \ href=\"https://github.com/DehghanianSina\"><i aria-hidden=\"true\" class=\"\
+    fab fa-github\"></i> Github</a> <a class=\"hover-shadow btn btn-light rounded-pill\"\
+    \ href=\"https://linkedin.com/in/SinaDehghanian\"><i aria-hidden=\"true\" class=\"\
+    fab fa-linkedin\"></i> LinkedIn</a> <a class=\"hover-shadow btn btn-light rounded-pill\"\
+    \ href=\"https://t.me/Dehghanian_Sina\"><i aria-hidden=\"true\" class=\"fab fa-telegram\"\
+    ></i> Telegram</a> <a class=\"hover-shadow btn btn-light rounded-pill\" href=\"\
+    https://drive.google.com/\"><i aria-hidden=\"true\" class=\"far fa-file-pdf\"\
+    ></i> CV</a></p>"
 work:
   content: '<div class="container-fluid">
 
