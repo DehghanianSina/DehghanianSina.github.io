@@ -53,8 +53,8 @@ search:
 bio:
   label: <i class="fas fa-info"></i> About Me
   content: "<p><img alt=\"my-profile-picture\" class=\"rounded-circle d-block ms-sm-0\
-    \ me-sm-4 mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"128em\" src=\"\
-    \    https://github.com/DehghanianSina.png\n\" width=\"128em\"/>\n\nI'm Sina Dehghanian,\
+    \ me-sm-4 mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"200em\" src=\"\
+    \    https://github.com/DehghanianSina.png\n\" width=\"200em\"/>\n\nI'm Sina Dehghanian,\
     \ a highly detail-oriented and meticulous Data Analyst with a proven track record\
     \ of success. I've been fortunate to work with prestigious international and domestic\
     \ companies, refining my expertise in data analysis and business intelligence\
@@ -71,9 +71,9 @@ bio:
     \ and creating comprehensive analytical reports that empower product managers\
     \ and board members to drive impactful actions and enhance product excellence.</p>\n\
     <p>I hold a master's degree in Artificial Intelligence from the Isfahan University\
-    \ of Technology <a href=\"https://www.markdownguide.org\" target=\"_blank\">(IUT)</a>.\
+    \ of Technology\_<a href=\"https://www.markdownguide.org\" target=\"_blank\">(IUT)</a>.\
     \ Working under the supervision of Dr.\_Manshaei at the Game Theory &amp; Mechanism\
-    \ Design Research Lab <a href=\"https://gtmd.iut.ac.ir/en/alumni-0\" target=\"\
+    \ Design Research Lab\_<a href=\"https://gtmd.iut.ac.ir/en/alumni-0\" target=\"\
     _blank\">(GTMD)</a>, I deepened my knowledge and expertise in the applications\
     \ of AI. With a solid academic foundation and practical experience, I'm ready\
     \ to bring valuable insights and analytical excellence to any organization.</p>\n\
