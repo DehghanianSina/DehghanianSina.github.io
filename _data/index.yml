@@ -96,6 +96,40 @@ work:
 
     <div class="col-12 col-md-4">
 
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://bitpin.io/">Bitpin</a>
+
+    </h5>
+
+    <p class="text-center mb-0 fw-light">Data Analyst/Engineer</p>
+
+    <p class="text-muted text-center small">May 2023 - now</p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>Bitpin is one of the major players in fintech
+    industry in Iran.</p>
+
+    <ul>
+
+    <li>Working as a senior Data Analyst in TnP Department.</li>
+
+    <li>Strong collaboration with the CEO and board members.</li>
+
+    <li>Responsible for all data pipelines and dashboards.</li>
+
+    <li>Working as a Data Engineer and setup the infrastructure of scheduling, running,
+    and monitoring DAGs, including Airflow and several Bots for monitoring, from scratch.</li>
+
+    </ul></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
     <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://roomvu.com/">Roomvu</a>
 
     </h5>
