@@ -4,6 +4,18 @@ work:
   template:
     template: templates/experience.html
     apply: whole
+  Bitpin:
+    heading: |
+      <a href="https://bitpin.io/" class="text-dark">Bitpin</a>
+    heading_details: Data Analyst/Engineer
+    heading_tag: May 2023 - now
+    content: |
+      Bitpin is one of the major players in fintech industry in Iran.
+
+      - Working as a senior Data Analyst in TnP Department.
+      - Strong collaboration with the CEO and board members.
+      - Responsible for all data pipelines and dashboards.
+      - Working as a Data Engineer and setup the infrastructure of scheduling, running, and monitoring DAGs, including Airflow and several Bots for monitoring, from scratch.
   Roomvu:
     heading: |
       <a href="https://roomvu.com/" class="text-dark">Roomvu</a>
