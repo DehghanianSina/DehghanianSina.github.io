@@ -91,7 +91,7 @@ bio:
     hover-shadow btn btn-light rounded-pill\" href=\"https://t.me/Dehghanian_Sina\"\
     ><i aria-hidden=\"true\" class=\"fab fa-telegram\"></i> Telegram</a> <a class=\"\
     hover-shadow btn btn-light rounded-pill\" href=\"https://t.me/s/Dehghanian_Sina/19\"\
-    ><i aria-hidden=\"true\" class=\"fas fa-elevator\"></i> CV</a></p>"
+    ><i aria-hidden=\"true\" class=\"fa fa-file-pdf\"></i> CV</a></p>"
 work:
   content: '<div class="container-fluid">
 
