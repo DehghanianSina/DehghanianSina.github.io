@@ -8,7 +8,7 @@
   Metabase • Superset • Power&nbsp;BI
 
 **others**: 
-  FOSS fan • Linux Comfortable • Git • Server-side development: SSHing, Code & debug in terminal, handling connections between server and db, etc. • LaTex • Jira
+  FOSS fan • Linux Comfortable • Git • Server-side development: SSHing, Code & debug in terminal, handling connections between server and db, curl, tmux • LaTex • Jira
 
 
   
