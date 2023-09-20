@@ -523,7 +523,7 @@ skills:
     content: "<p><strong>Programming Skills</strong>: \n  Python: Pandas, Numpy, Flask,\
       \ SQLAlchemy, requests \u2022 SQL</p>\n<p><strong>Database Management Systems</strong>:\
       \ PostgreSQL \u2022 MySQL \u2022 MS SQL Server </p>\n<p><strong>Data Visualization\
-      \ &amp; Dashboaringd</strong>: Metabase \u2022 Superset \u2022 Power~BI</p>\n\
+      \ &amp; Dashboarding</strong>: Metabase \u2022 Superset \u2022 Power\_BI</p>\n\
       <p><strong>others</strong>: \n  FOSS fan \u2022 Git \u2022 Linux Comfortable\
       \ \u2022 Server-side development: SSHing, Coding in terminal, handling connections\
       \ between server and db, etc. \u2022 LaTex \u2022 Jira</p>"
