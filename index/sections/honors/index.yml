@@ -5,7 +5,7 @@ honor:
     template: templates/experience.html
     apply: whole
   ielts:
-    heading: Direct Admission
+    heading: Merit-based Admission
     heading_details: Directly admitted to the master due to top graduation rank in bachelor
     no_line: true
     content: 
