@@ -475,9 +475,9 @@ volunteer:
     <hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div\
     \ class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Member of\
     \ the Executive and Scientific Committee</h5>\n<p class=\"text-center mb-0 fw-light\"\
-    ><a href=\"https://mvip2017.iut.ac.ir/\" text-dark\"=\"\">MVIP2017</a></p>\n<p\
-    \ class=\"text-muted text-center small\">Apr. 2017 - Nov. 2017</p>\n</div>\n<div\
-    \ class=\"col-12 col-md-8\"><p>MVIP2017 conference, Isfahan University of Technology\n\
+    ><a class=\"text-dark\" href=\"https://mvip2017.iut.ac.ir/\">MVIP2017</a></p>\n\
+    <p class=\"text-muted text-center small\">Apr. 2017 - Nov. 2017</p>\n</div>\n\
+    <div class=\"col-12 col-md-8\"><p>MVIP2017 conference, Isfahan University of Technology\n\
     Member of the executive and scientific committee\nHead of the management team\n\
     www.MVIP2017.iut.ac.ir</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
     \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
@@ -526,7 +526,7 @@ skills:
       \ &amp; Dashboarding</strong>: \n  Metabase \u2022 Superset \u2022 Power\_BI</p>\n\
       <p><strong>others</strong>: \n  FOSS fan \u2022 Linux Comfortable \u2022 Git\
       \ \u2022 Server-side development: SSHing, Code &amp; debug in terminal, handling\
-      \ connections between server and db, etc. \u2022 LaTex \u2022 Jira</p>"
+      \ connections between server and db, curl, tmux \u2022 LaTex \u2022 Jira</p>"
   languages:
     label: Languages
     content: '<p><strong>Farsi</strong>: Native, <strong>English</strong>: Advanced
