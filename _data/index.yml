@@ -520,17 +520,13 @@ skills:
       events, I can lead in any context.</p>
   technical:
     label: Technical Skills
-    content: "<p><strong>General Programming Skills</strong>: \n  Python, C/C++, Java,\
-      \ R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine Learning Tools</strong>:\
-      \ Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision, captum), \n  SciPy\
-      \ (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract OCR</p>\n<p><strong>Distribution\
-      \ &amp; Deployment Tools</strong>: Slurm, Kubernetes, Docker, GH Workflows</p>\n\
-      <p><strong>Data management &amp; Databases</strong>: MySQL, SQLite, PostgreSLQL,\
-      \ MongoDB, Redis</p>\n<p><strong>Web Development</strong>: Django, Flask, Vue.js,\
-      \ Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>CAD Tools &amp; HDLs</strong>:\
-      \ Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design Tools</strong>:\
-      \ Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
-      \ Unix ecosystem familiarity, Git (Version Control), LaTex</p>"
+    content: "<p><strong>Programming Skills</strong>: \n  Python: Pandas, Numpy, Flask,\
+      \ SQLAlchemy, requests \u2022 SQL</p>\n<p><strong>Database Management Systems</strong>:\
+      \ PostgreSQL \u2022 MySQL \u2022 MS SQL Server </p>\n<p><strong>Data Visualization\
+      \ &amp; Dashboaringd</strong>: Metabase \u2022 Superset \u2022 Power~BI</p>\n\
+      <p><strong>others</strong>: \n  FOSS fan \u2022 Git \u2022 Linux Comfortable\
+      \ \u2022 Server-side development: SSHing, Coding in terminal, handling connections\
+      \ between server and db, etc. \u2022 LaTex \u2022 Jira</p>"
   languages:
     label: Languages
     content: '<p><strong>Farsi</strong>: Native, <strong>English</strong>: Advanced
@@ -542,7 +538,7 @@ honor:
 
     <div class="col-12 col-md-4">
 
-    <h5 class="mb-0 text-center m-0 p-0">Direct Admission</h5>
+    <h5 class="mb-0 text-center m-0 p-0">Merit-based Admission</h5>
 
     <p class="text-center mb-0 fw-light">Directly admitted to the master due to top
     graduation rank in bachelor</p>
