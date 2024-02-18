@@ -30,8 +30,6 @@ meta:
   content: Dehghanian
 - property: profile:gender
   content: male
-- property: profile:username
-  content: SinaDehghanian
 - name: keywords
   content: "Sina Dehghanian, Isfahan University of Technology, Sina, Dehghanian, Data\
     \ Analyst, Data Analysis, SQL, Python, git, fog computing, cloud computing, reinforcement\
