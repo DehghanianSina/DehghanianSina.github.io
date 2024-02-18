@@ -26,3 +26,5 @@ patch-academic: index/sections/academic/index.yml
 patch-volunteer: index/sections/volunteer/index.yml
 patch-skills: index/sections/skills/index.yml
 patch-honors: index/sections/honors/index.yml
+
+patch-links: index/links.md
