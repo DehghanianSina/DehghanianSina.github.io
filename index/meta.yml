@@ -3,6 +3,8 @@
   content: Sina Dehghanian
 - property: "og:site_name" 
   content: Sina Dehghanian's webpage
+- property: "og:description"
+  content: This is the online resume of Sina Dehghanian, Data Analyst and Data Science Career Path Mentor.
 - property: "og:type" 
   content: profile
 - property: "og:locale" 
