@@ -4,7 +4,8 @@
 - property: "og:site_name" 
   content: Sina Dehghanian's webpage
 - property: "og:description"
-  content: Data Analyst | BI Developer 📈📊📉\nData Career Path Mentor
+  content: "Data Analyst | BI Developer 📈📊📉
+  Data Career Path Mentor"
 - property: "og:type" 
   content: profile
 - property: "og:locale" 
