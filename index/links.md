@@ -1,1 +1,4 @@
+---
+permalink: /links
+---
 Sina Dehghanian (Persian: سینا دهقانیان) is a highly detail-oriented and meticulous Data Analyst with a proven track record of success. 
