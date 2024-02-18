@@ -4,8 +4,34 @@ header:
   description: "<p>Data Analyst | BI Developer \U0001F4C8\U0001F4CA\U0001F4C9</p>\n\
     <p><em>My personal blog and online r\xE9sum\xE9!</em></p>"
 meta:
+- property: og:title
+  content: Sina Dehghanian
 - property: og:site_name
-  content: Sina Dehghanian's Links
+  content: Sina Dehghanian's webpage
+- property: og:type
+  content: profile
+- property: og:locale
+  content: en_US
+- property: og:url
+  content: https://sinad.me/
+- property: og:image
+  content: https://avatars.githubusercontent.com/u/74854551?v:4
+- property: og:image:secure_url
+  content: https://avatars.githubusercontent.com/u/74854551?v:4
+- property: og:image:width
+  content: 50
+- property: og:image:height
+  content: 50
+- property: og:image:type
+  content: image/png
+- property: profile:first_name
+  content: Sina
+- property: profile:last_name
+  content: Dehghanian
+- property: profile:gender
+  content: male
+- property: profile:username
+  content: SinaDehghanian
 - name: keywords
   content: "Sina Dehghanian, Isfahan University of Technology, Sina, Dehghanian, Data\
     \ Analyst, Data Analysis, SQL, Python, git, fog computing, cloud computing, reinforcement\
