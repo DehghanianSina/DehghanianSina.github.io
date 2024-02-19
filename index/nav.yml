@@ -15,6 +15,9 @@ nav:
     - link: https://t.me/Dehghanian_Sina
       icon: fab fa-telegram
       text: Telegram
+    - link: /links/
+      icon: fas fa-link
+      text: Links
 
 # nav:
 #   fixed:
