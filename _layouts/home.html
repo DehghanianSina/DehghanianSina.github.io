@@ -1,5 +1,6 @@
 {% assign index = page.index | default: "index" %}
 {% assign index = site.data[index] %}
+
 <html>
 
 <head>
@@ -8,10 +9,10 @@
     {% include meta.html meta=index.meta %}
 </head>
 
-<body class="bg-secondary">
+<body class="bg-light">
 <div class="app-content container-fluid">
     {% include header.html header=index.header %}
-    {% include nav.html %}
+    {% include nav.html nav=index.nav %}
 
     <div id="app-body"
          class="app-body
