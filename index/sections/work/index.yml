@@ -12,10 +12,12 @@ work:
     content: |
       Bitpin is one of the major players in fintech industry in Iran.
 
-      - Working as a senior Data Analyst in TnP Department.
-      - Strong collaboration with the CEO and board members.
-      - Responsible for all data pipelines and dashboards.
-      - Working as a Data Engineer and setup the infrastructure of scheduling, running, and monitoring DAGs, including Airflow and several Bots for monitoring, from scratch.
+      • Collaborated closely with T&P Teams to implement new tools, enhancing data infrastructure and processes.
+      • Worked with C-level executives to deliver data-driven solutions for business growth.
+      • Pioneered as the first Data Engineer, developing the initial ETL structure from scratch using Python and PostgreSQL, and implemented various ETL pipelines across Product, Finance, and Marketing departments.
+      • Conducted competitor analysis by gathering raw data from multiple sources, including open APIs and web crawling, and automated the process using SSH and crontab.
+      • Visualized raw data to generate insightful reports, providing critical business perspectives.
+      • Designed and implemented a monitoring and alerting system, enabling effective job monitoring across the company.
   Roomvu:
     heading: |
       <a href="https://roomvu.com/" class="text-dark">Roomvu</a>
