@@ -6,7 +6,7 @@ work:
     apply: whole
   Bitpin:
     heading: |
-      <a href="https://bitpin.io/" class="text-dark">Bitpin</a>
+      <a href="https://bitpin.org/" class="text-dark">Bitpin</a>
     heading_details: Data Analyst/Engineer
     heading_tag: May 2023 - Sep. 2024
     content: |
