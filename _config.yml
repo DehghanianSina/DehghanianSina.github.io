@@ -41,19 +41,9 @@ navigation:
     link: /#honors
 
 meta:
-- property: og:title
-  content: Sina Dehghanian
-- property: og:site_name
-  content: Sina Dehghanian's webpage
 - property: og:description
   content: "Checkout Sina Dehghanian's journey, the meticulous Data Analyst, and Mentor\
     \ \U0001F4C8\U0001F4CA\U0001F4C9"
-- property: og:type
-  content: profile
-- property: og:locale
-  content: en_US
-- property: og:url
-  content: https://sinad.me/
 - property: og:image
   content: https://avatars.githubusercontent.com/u/74854551?v:4
 - property: og:image:secure_url
