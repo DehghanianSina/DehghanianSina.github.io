@@ -23,6 +23,9 @@ platforms:
   - name: Telegram
     icon: <i class="fa-brands fa-telegram"></i>
     link: https://t.me/Dehghanian_Sina
+  # - name: CV
+  #   icon: <i class="fa-regular fa-file-pdf"></i>
+  #   link: ./assets/your-file.pdf){:target="_blank"
 
 navigation:
   - name: About Me
