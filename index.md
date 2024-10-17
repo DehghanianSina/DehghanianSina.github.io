@@ -3,17 +3,25 @@ layout: default
 title: "Sina Dehghanian"
 ---
 
-# About Me 
-Sina Dehghanian (Persian: سینا دهقانیان) is a highly detail-oriented and meticulous Data Analyst with a proven track record of success. He has had the privilege to collaborate with prestigious international and domestic companies, spanning from Europe to Canada—whether working on-site or remotely. Through these experiences, he has refined his expertise in data analysis and business intelligence (BI). Sina's passion lies in uncovering actionable insights from vast datasets using SQL, tidying and summarizing data with a variety of tools, and presenting findings in an impactful manner to stakeholders, including product managers, executives, and board members.
+# About Me
 
-Throughout Sina's career as a data analyst and engineer, notable milestones have been achieved. In the role of a data engineer, Sina has created robust data pipelines from scratch, demonstrating the ability to handle complex data processing tasks. As a data analyst, Sina has excelled in visualizing and presenting business intelligence findings to C-level executives and stakeholders, enabling informed decision-making. Proficiency in SQL, Python, Git, and diverse visualization tools equips Sina to overcome challenges and generate comprehensive analytical reports, empowering product managers and board members to drive impactful actions and enhance product excellence.
+**Sina Dehghanian** is an experienced **Data Analyst** with a strong background in **data engineering** and **business intelligence**. Over the years, he has had the privilege of working with international and domestic companies across Europe and Canada, delivering impactful insights through data.
 
-Sina holds a master's degree in Artificial Intelligence from the [Isfahan&nbsp;University&nbsp;of&nbsp;Technology](https://english.iut.ac.ir/){:target="_blank"} (IUT). Working under the supervision of Dr.&nbsp;Manshaei at the [Game&nbsp;Theory&nbsp;&&nbsp;Mechanism&nbsp;Design&nbsp;Research&nbsp;Lab](https://gtmd.iut.ac.ir/en/alumni-0){:target="_blank"} (GTMD), Sina deepened knowledge and expertise in the applications of AI. With a solid academic foundation and practical experience, Sina is prepared to bring valuable insights and analytical excellence to any organization.
-Let's get in touch and explore how Sina Dehghanian's meticulous approach to data analysis and diverse skill set can drive success for your business. Book a meeting at [book.sinad.me <i class="fa-regular fa-calendar-check" aria-hidden="true"></i>](https://book.sinad.me/){:target="_blank"}.
+With a focus on **SQL**, **Python**, and **data visualization**, he specializes in turning raw data into actionable insights for executives, product managers, and stakeholders. His journey includes building robust data pipelines and presenting intelligence that drives strategic decision-making at the C-suite level.
+
+He holds a **Master’s in Artificial Intelligence** from [Isfahan University of Technology](https://english.iut.ac.ir/){:target="_blank"}. His research under **Dr. Manshaei** at the [GTMD Lab](https://gtmd.iut.ac.ir/en/alumni-0){:target="_blank"} equipped him with valuable expertise in AI applications.
 
 
 
-**Links**: [website](https://dehghanian.ece.iut.ac.ir/){: class="hover-shadow btn btn-light rounded-pill" icon="fas fa-globe" }  [Github](https://github.com/DehghanianSina){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-github" }  [LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sinadehghanian){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-linkedin" }  [Telegram](https://t.me/Dehghanian_Sina){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-telegram" }  [CV](https://t.me/s/Dehghanian_Sina/19){: class="hover-shadow btn btn-light rounded-pill" icon="fa fa-file-pdf" }
+[Learn more about me >](/about-me)
+
+**Let's connect!**    
+• [Book a meeting <i class="fa-regular fa-calendar-check"></i>](https://book.sinad.me/){:target="_blank"}    
+• [Get contact info <i class="fa-solid fa-qrcode"></i>](#qrModal){:data-bs-toggle="modal"}    
+• [Links](/links/)   
+
+
+<!-- **Links**: [website](https://dehghanian.ece.iut.ac.ir/){: class="hover-shadow btn btn-light rounded-pill" icon="fas fa-globe" }  [Github](https://github.com/DehghanianSina){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-github" }  [LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sinadehghanian){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-linkedin" }  [Telegram](https://t.me/Dehghanian_Sina){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-telegram" }  [CV](https://t.me/s/Dehghanian_Sina/19){: class="hover-shadow btn btn-light rounded-pill" icon="fa fa-file-pdf" } -->
 
 ---
 
@@ -144,7 +152,7 @@ Teaching Assistant (TA) of plenty of undergraduate courses including: Informatio
 Datadays2021, Sharif University of Technology   
 *Dec. 2020 - Jun. 2021*   
 The responsibility of the scientific committee is to design and evaluate the best challenge and solution for the Datadays 2021 contest. As a scientific staff, my team and I define the best metric for the data-related challenge and develop the baseline model for the problem.   
-Datadays Challenge on RoboEpics: https://roboepics.com/c/DataDays2021  
+Checkout Datadays Challenge on [RoboEpics Contests Page](https://roboepics.com/c/)  
 
 <h3 style="margin-bottom:2px;">Member of the Executive and Scientific Committee</h3>
 MVIP2017, Isfahan University of Technology   
@@ -161,13 +169,13 @@ As an instructor and chief of teaching assistants (TA), I had a chance to edit a
 <h3 style="margin-bottom:2px;">Member of Editorial Team</h3>
 HyperText Magazine, ECE Department at IUT    
 *Jan. 2021*   
-Faramatn that is the Persian equivalent of HyperText, is a magazine that is published and organized by students at the ECE Department of IUT. I've been honored to participate as an editor of an article regarding my master thesis in an issue. Check my article in the online version [HERE](https://vrgl.ir/TSFMS).
+Faramatn that is the Persian equivalent of HyperText, is a magazine that is published and organized by students at the ECE Department of IUT. I've been honored to participate as an editor of an article regarding my master thesis in an issue. Checkout [my article in the online version](https://virgool.io/Faramatn/ابر-و-باد-و-مَه-و-خورشید-و-فلک-afy8jiwulhiw){:target="_blank"}.    
 
 <h3 style="margin-bottom:2px;">Executive Member of Welcoming Committee of New Students</h3>
 Isfahan University of Technology    
 *Aug. 2014 - Sep. 2016*   
-It is clear that in the first year, first-year students need to be supported in both academic aspects and social fields. In this plan, the senior or junior B.Sc. students help the freshmen during their entrance of the university. I have been a member of this committee for two courses of holding. Some of my activities include holding orientation days, supporting and mentoring first-year students, scheduling and holding different kinds of workshops, holding scientific visits, and managing the meetings with professors.
-      for more information you can visit: http://hoda.farhangi.iut.ac.ir/
+It is clear that in the first year, first-year students need to be supported in both academic aspects and social fields. In this plan, the senior or junior B.Sc. students help the freshmen during their entrance of the university. I have been a member of this committee for two courses of holding. Some of my activities include holding orientation days, supporting and mentoring first-year students, scheduling and holding different kinds of workshops, holding scientific visits, and managing the meetings with professors.    
+The committee website http://hoda.farhangi.iut.ac.ir/
 
 ---
 
