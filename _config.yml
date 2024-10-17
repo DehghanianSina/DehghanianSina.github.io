@@ -1,0 +1,73 @@
+title: Sina Dehghanian
+logo: https://avatars.githubusercontent.com/u/74854551?v=4
+subtitle: Data Analyst and Data Engineer 📈📊🧰
+# description:
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/DehghanianSina
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/SinaDehghanian
+  - name: Telegram
+    icon: <i class="fa-brands fa-telegram"></i>
+    link: https://t.me/Dehghanian_Sina
+
+navigation:
+  - name: About Me
+    link: /#about-me
+  - name: Work Experiences
+    link: /#work-experiences
+  - name: Education
+    link: /#education
+  - name: Academic Experiences
+    link: /#academic-experiences
+  - name: Volunteer Experiences
+    link: /#volunteer-experiences
+  - name: Skills
+    link: /#skills
+  - name: Honors
+    link: /#honors
+
+meta:
+- property: og:title
+  content: Sina Dehghanian
+- property: og:site_name
+  content: Sina Dehghanian's webpage
+- property: og:description
+  content: "Checkout Sina Dehghanian's journey, the meticulous Data Analyst, and Mentor\
+    \ \U0001F4C8\U0001F4CA\U0001F4C9"
+- property: og:type
+  content: profile
+- property: og:locale
+  content: en_US
+- property: og:url
+  content: https://sinad.me/
+- property: og:image
+  content: https://avatars.githubusercontent.com/u/74854551?v:4
+- property: og:image:secure_url
+  content: https://avatars.githubusercontent.com/u/74854551?v:4
+- property: og:image:width
+  content: 50
+- property: og:image:height
+  content: 50
+- property: og:image:type
+  content: image/png
+- property: profile:first_name
+  content: Sina
+- property: profile:last_name
+  content: Dehghanian
+- property: profile:gender
+  content: male
+
+link:
+  rel: canonical
+  href: https://sinad.me/
