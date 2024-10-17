@@ -18,61 +18,86 @@ Let's get in touch and discover how Sina Dehghanian's meticulous approach to dat
 
 # Work Experiences
 
-<h3 style="margin-bottom:2px;">SnappFood</h3>
-**Senior Data Analyst**   
-*Oct. 2024 - now*   
-<i class="fa-solid fa-link"></i> snappfood.ir   
-• E-commerce   
-• PySpark, Python, RudderStack, MS&nbsp;SQL&nbsp;Server, PostgreSQL, Metabase, git
+<div class="card">
+  <h3>SnappFood</h3>
+  <p><b>Senior Data Analyst</b></p>
+  <p>Oct. 2024 - now</p>
+  <i class="fa-solid fa-link"></i> <a href="https://snappfood.ir" target="_blank">snappfood.ir</a><br>
+  • E-commerce<br>
+  • PySpark, Python, RudderStack, MS&nbsp;SQL&nbsp;Server, PostgreSQL, Metabase, git<br>
+  <a href="/work-experiences/#snappfood"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;">BitPin</h3>
-**Senior Data Analyst**   
-*May 2023 - Present*   
-<i class="fa-solid fa-link"></i> bitpin.org   
-• Fintech  
-• PostgreSQL, Python, Metabase, git
+<div class="card">
+  <h3>BitPin</h3>
+  <p><b>Senior Data Analyst</b></p>
+  <p>May 2023 - Sep. 2024</p>
+  <i class="fa-solid fa-link"></i> <a href="https://bitpin.org" target="_blank">bitpin.org</a><br>
+  • Fintech<br>
+  • PostgreSQL, Python, Metabase, git<br>
+  <a href="/work-experiences/#bitpin"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;">Roomvu</h3>
-**Data Analyst**   
-*Jun. 2022 - Jan. 2023*    
-<i class="fa-solid fa-link"></i> roomvu.com   
-• SaaS   
-• MySQL, Postgres, Python, Metabase, Airflow, git
+<div class="card">
+  <h3>Roomvu</h3>
+  <p><b>Data Analyst</b></p>
+  <p>Jun. 2022 - Jan. 2023</p>
+  <i class="fa-solid fa-link"></i> <a href="https://roomvu.com" target="_blank">roomvu.com</a><br>
+  • SaaS<br>
+  • MySQL, Postgres, Python, Metabase, Airflow, git<br>
+  <a href="/work-experiences/#roomvu"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;">Revolut</h3>
-**Data Analyst**    
-*Feb. 2022 - May. 2022*   
-<i class="fa-solid fa-link"></i> revolut.com   
-• Fintech   
-• MySQL, Python, Airflow, BitBucket (git), looker
+<div class="card">
+  <h3>Revolut</h3>
+  <p><b>Data Analyst</b></p>
+  <p>Feb. 2022 - May. 2022</p>
+  <i class="fa-solid fa-link"></i> <a href="https://revolut.com" target="_blank">revolut.com</a><br>
+  • Fintech <br>
+  • MySQL, Python, Airflow, BitBucket (git), Looker <br>
+  <a href="/work-experiences/#revolut"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;">Digikala</h3>
-**Data Analyst**    
-*Mar. 2021 - Jan. 2022*   
-<i class="fa-solid fa-link"></i> digikala.com   
-• E-commerce   
-• MS&nbsp;SQL&nbsp;Server, Power&nbsp;BI, Python, git
+<div class="card">
+  <h3>Digikala</h3>
+  <p><b>Data Analyst</b></p>
+  <p>Mar. 2021 - Jan. 2022</p>
+  <i class="fa-solid fa-link"></i> <a href="https://digikala.com" target="_blank">digikala.com</a><br>
+  • E-commerce <br>
+  • MS&nbsp;SQL&nbsp;Server, Power&nbsp;BI, Python, git <br>
+  <a href="/work-experiences/#digikala"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;">Balad Maps</h3>
-**Data Analyst**   
-*Apr. 2020 - Feb. 2021*    
-<i class="fa-solid fa-link"></i> baladmaps.com   
-• Maps and Navigation   
-• PostgreSQL, MySQL, Python, PySpark, Airflow, Superset
+<div class="card">
+  <h3>Balad Maps</h3>
+  <p><b>Data Analyst</b></p>
+  <p>Apr. 2020 - Feb. 2021</p>
+  <i class="fa-solid fa-link"></i> <a href="https://baladmaps.com" target="_blank">baladmaps.com</a><br>
+  • Maps and Navigation <br>
+  • PostgreSQL, MySQL, Python, PySpark, Airflow, Superset <br>
+  <a href="/work-experiences/#baladmaps"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;">Balad Maps</h3>
-**Software QA Engineer**    
-*Oct. 2018 - Apr. 2020*    
-<i class="fa-solid fa-link"></i> baladmaps.com   
-• Maps and Navigation   
-• Android Development, Jira, MySQL
+<div class="card">
+  <h3>Balad Maps</h3>
+  <p><b>Software QA Engineer</b></p>
+  <p>Oct. 2018 - Apr. 2020</p>
+  <i class="fa-solid fa-link"></i> <a href="https://baladmaps.com" target="_blank">baladmaps.com</a><br>
+  • Maps and Navigation <br>
+  • Android Development, Jira, MySQL <br>
+  <a href="/work-experiences/#baladmaps"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;">Raya Navid Systems</h3>
-**BI Developer**    
-*Jul. 2018 - Oct. 2018*    
-*this company has been dissolved*   
-• SaaS   
-• BPMN, Pentaho, JasperReports, MySQL, Postman
+<div class="card">
+  <h3>Raya Navid Systems</h3>
+  <p><b>BI Developer</b></p>
+  <p>Jul. 2018 - Oct. 2018</p>
+  *this company has been dissolved* <br>
+  • SaaS <br>
+  • BPMN, Pentaho, JasperReports, MySQL, Postman <br>
+  <a href="/work-experiences/#rns"><span class="card-link-spanner"></span></a>
+</div>
+
 
 ---
 
