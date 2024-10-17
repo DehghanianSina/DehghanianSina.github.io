@@ -12,7 +12,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-  - jekyll-remote-theme
 
 platforms:
   - name: GitHub
