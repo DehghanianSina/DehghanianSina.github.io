@@ -1,3 +1,11 @@
+<!-- rest of og tags added by me -->
+{% if site.meta %}
+  {% for meta in site.meta %}
+    <meta property="{{ meta.property }}" content="{{ meta.content }}">
+  {% endfor %}
+{% endif %}
+<!-- end -->
+
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
 
