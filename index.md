@@ -21,7 +21,7 @@ Let's get in touch and discover how Sina Dehghanian's meticulous approach to dat
 <div class="card">
   <h3>SnappFood</h3>
   <p><b>Senior Data Analyst</b></p>
-  <p>Oct. 2024 - now</p>
+  <p><i>Oct. 2024 - now</i></p>
   <i class="fa-solid fa-link"></i> <a href="https://snappfood.ir" target="_blank">snappfood.ir</a><br>
   • E-commerce<br>
   • PySpark, Python, RudderStack, MS&nbsp;SQL&nbsp;Server, PostgreSQL, Metabase, git<br>
@@ -31,7 +31,7 @@ Let's get in touch and discover how Sina Dehghanian's meticulous approach to dat
 <div class="card">
   <h3>BitPin</h3>
   <p><b>Senior Data Analyst</b></p>
-  <p>May 2023 - Sep. 2024</p>
+  <p><i>May 2023 - Sep. 2024</i></p>
   <i class="fa-solid fa-link"></i> <a href="https://bitpin.org" target="_blank">bitpin.org</a><br>
   • Fintech<br>
   • PostgreSQL, Python, Metabase, git<br>
@@ -51,7 +51,7 @@ Let's get in touch and discover how Sina Dehghanian's meticulous approach to dat
 <div class="card">
   <h3>Revolut</h3>
   <p><b>Data Analyst</b></p>
-  <p>Feb. 2022 - May. 2022</p>
+  <p><i>Feb. 2022 - May. 2022</i></p>
   <i class="fa-solid fa-link"></i> <a href="https://revolut.com" target="_blank">revolut.com</a><br>
   • Fintech <br>
   • MySQL, Python, Airflow, BitBucket (git), Looker <br>
@@ -61,7 +61,7 @@ Let's get in touch and discover how Sina Dehghanian's meticulous approach to dat
 <div class="card">
   <h3>Digikala</h3>
   <p><b>Data Analyst</b></p>
-  <p>Mar. 2021 - Jan. 2022</p>
+  <p><i>Mar. 2021 - Jan. 2022</i></p>
   <i class="fa-solid fa-link"></i> <a href="https://digikala.com" target="_blank">digikala.com</a><br>
   • E-commerce <br>
   • MS&nbsp;SQL&nbsp;Server, Power&nbsp;BI, Python, git <br>
@@ -71,7 +71,7 @@ Let's get in touch and discover how Sina Dehghanian's meticulous approach to dat
 <div class="card">
   <h3>Balad Maps</h3>
   <p><b>Data Analyst</b></p>
-  <p>Apr. 2020 - Feb. 2021</p>
+  <p><i>Apr. 2020 - Feb. 2021</i></p>
   <i class="fa-solid fa-link"></i> <a href="https://baladmaps.com" target="_blank">baladmaps.com</a><br>
   • Maps and Navigation <br>
   • PostgreSQL, MySQL, Python, PySpark, Airflow, Superset <br>
@@ -81,7 +81,7 @@ Let's get in touch and discover how Sina Dehghanian's meticulous approach to dat
 <div class="card">
   <h3>Balad Maps</h3>
   <p><b>Software QA Engineer</b></p>
-  <p>Oct. 2018 - Apr. 2020</p>
+  <p><i>Oct. 2018 - Apr. 2020</i></p>
   <i class="fa-solid fa-link"></i> <a href="https://baladmaps.com" target="_blank">baladmaps.com</a><br>
   • Maps and Navigation <br>
   • Android Development, Jira, MySQL <br>
@@ -91,7 +91,7 @@ Let's get in touch and discover how Sina Dehghanian's meticulous approach to dat
 <div class="card">
   <h3>Raya Navid Systems</h3>
   <p><b>BI Developer</b></p>
-  <p>Jul. 2018 - Oct. 2018</p>
+  <p><i>Jul. 2018 - Oct. 2018</i></p>
   *this company has been dissolved* <br>
   • SaaS <br>
   • BPMN, Pentaho, JasperReports, MySQL, Postman <br>
