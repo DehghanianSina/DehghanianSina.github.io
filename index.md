@@ -8,7 +8,7 @@ Sina Dehghanian (Persian: سینا دهقانیان) is a highly detail-oriented
 
 Throughout Sina's career as a data analyst and engineer, notable milestones have been achieved. In the role of a data engineer, Sina has created robust data pipelines from scratch, demonstrating the ability to handle complex data processing tasks. As a data analyst, Sina has excelled in visualizing and presenting business intelligence findings to C-level executives and stakeholders, enabling informed decision-making. Proficiency in SQL, Python, Git, and diverse visualization tools equips Sina to overcome challenges and generate comprehensive analytical reports, empowering product managers and board members to drive impactful actions and enhance product excellence.
 
-<p>Sina holds a master's degree in Artificial Intelligence from the Isfahan&nbsp;University&nbsp;of&nbsp;Technology <a href="https://english.iut.ac.ir/" target="_blank">(IUT)</a>. Working under the supervision of Dr.&nbsp;Manshaei at the Game&nbsp;Theory&nbsp;&&nbsp;Mechanism&nbsp;Design&nbsp;Research&nbsp;Lab <a href="https://gtmd.iut.ac.ir/en/alumni-0" target="_blank">(GTMD)</a>, Sina deepened knowledge and expertise in the applications of AI. With a solid academic foundation and practical experience, Sina is prepared to bring valuable insights and analytical excellence to any organization.</p>
+Sina holds a master's degree in Artificial Intelligence from the [Isfahan&nbsp;University&nbsp;of&nbsp;Technology](https://english.iut.ac.ir/){:target="_blank"} (IUT). Working under the supervision of Dr.&nbsp;Manshaei at the [Game&nbsp;Theory&nbsp;&&nbsp;Mechanism&nbsp;Design&nbsp;Research&nbsp;Lab](https://gtmd.iut.ac.ir/en/alumni-0){:target="_blank"} (GTMD), Sina deepened knowledge and expertise in the applications of AI. With a solid academic foundation and practical experience, Sina is prepared to bring valuable insights and analytical excellence to any organization.
 Let's get in touch and discover how Sina Dehghanian's meticulous approach to data analysis and wealth of skills can contribute to the success of your business. <i class="fas fa-globe"></i>
 
 
@@ -108,14 +108,14 @@ Isfahan University of Technology (IUT)
 *Sep. 2016 - Jul. 2019*   
 **Thesis:** Workload Offloading in Fog Computing   
 **Supervisior:** Dr. Manshaei   
-[Read more >](/education/)   
+[Read more >](/education/#master-of-artificial-intelligence)   
 
 **Bachelor of Computer Engineering**   
 Isfahan University of Technology (IUT)   
 *Sep. 2012 - Sep. 2016*   
 **Project:** Mining Web Data in E-Commerce   
 **Supervisior:** Dr. Ghadiri   
-[Read more >](/education/)   
+[Read more >](/education/#bachelor-of-computer-engineering)   
 
 ---
 
