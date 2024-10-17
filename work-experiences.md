@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sina Dehghanian | Work Experiences"
-permalink: /work-experiences
+permalink: /work-experiences/
 ---
 <h1>Work Experiences</h1>
 [Home](/) > Work Experiences   

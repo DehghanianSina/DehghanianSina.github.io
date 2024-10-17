@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sina Dehghanian | Education"
-permalink: /education
+permalink: /education/
 ---
 <h1>Education</h1>
 [Home](/) > Education

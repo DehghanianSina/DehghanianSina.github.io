@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sina Dehghanian | Volunteer Experiences"
-permalink: /volunteer-experiences
+permalink: /volunteer-experiences/
 ---
 <h1>Volunteer Experiences</h1>
 [Home](/) > Volunteer Experiences   

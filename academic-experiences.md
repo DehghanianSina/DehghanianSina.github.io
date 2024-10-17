@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sina Dehghanian | Academic Experiences"
-permalink: /academic-experiences
+permalink: /academic-experiences/
 ---
 <h1>Academic Experiences</h1>
 [Home](/) > Academic Experiences   
