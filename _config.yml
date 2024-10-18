@@ -26,9 +26,10 @@ platforms:
   - name: Links
     icon: <i class="fa-solid fa-link"></i>
     link: /links/
-  # - name: CV
-  #   icon: <i class="fa-regular fa-file-pdf"></i>
-  #   link: ./assets/your-file.pdf){:target="_blank"
+  - name: CV
+    icon: <i class="fa-regular fa-file-pdf"></i>
+    link: ./assets/files/SinaDehghanian-DataAnalyst-CV_v2024-9.pdf
+    target: _blank
 
 navigation:
   - name:  About Me
