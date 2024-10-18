@@ -28,20 +28,27 @@ platforms:
   #   link: ./assets/your-file.pdf){:target="_blank"
 
 navigation:
-  - name: About Me
+  - name:  About Me
     link: /#about-me
+    icon: <i class="fa-solid fa-info"></i> 
   - name: Work Experiences
     link: /#work-experiences
+    icon: <i class="fa-solid fa-briefcase"></i>
   - name: Education
     link: /#education
+    icon: <i class="fa-solid fa-graduation-cap"></i>
   - name: Academic Experiences
     link: /#academic-experiences
+    icon: <i class="fa-solid fa-chalkboard-user"></i>
   - name: Volunteer Experiences
     link: /#volunteer-experiences
+    icon: <i class="fas fa-hands-helping"></i>
   - name: Skills
     link: /#skills
+    icon: <i class="fa-solid fa-laptop-code"></i>
   - name: Honors
     link: /#honors
+    icon: <i class="fa-solid fa-award"></i>
 
 meta:
 - property: og:description
