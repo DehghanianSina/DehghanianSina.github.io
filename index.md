@@ -91,9 +91,8 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
   <h3>Raya Navid Systems</h3>
   <p><b>BI Developer</b></p>
   <p><i>Jul. 2018 - Oct. 2018</i></p>
-  *this company has been dissolved* <br>
-  • SaaS <br>
-  • BPMN, Pentaho, JasperReports, MySQL, Postman <br>
+  <p>• SaaS <br>
+     • BPMN, Pentaho, JasperReports, MySQL, Postman </p>
   <a href="/work-experiences/#rns"><span class="card-link-spanner"></span></a>
 </div>
 
