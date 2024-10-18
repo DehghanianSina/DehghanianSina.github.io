@@ -20,9 +20,6 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
 • [<i class="fa-solid fa-qrcode"></i> Get contact info](#qrModal){:data-bs-toggle="modal"}    
 • [<i class="fa-solid fa-folder-tree"></i> Links](/links/)   
 
-
-<!-- **Links**: [website](https://dehghanian.ece.iut.ac.ir/){: class="hover-shadow btn btn-light rounded-pill" icon="fas fa-globe" }  [Github](https://github.com/DehghanianSina){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-github" }  [LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sinadehghanian){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-linkedin" }  [Telegram](https://t.me/Dehghanian_Sina){: class="hover-shadow btn btn-light rounded-pill" icon="fab fa-telegram" }  [CV](https://t.me/s/Dehghanian_Sina/19){: class="hover-shadow btn btn-light rounded-pill" icon="fa fa-file-pdf" } -->
-
 ---
 
 # Work Experiences
