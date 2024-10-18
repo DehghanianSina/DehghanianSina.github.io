@@ -28,9 +28,8 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
   <h3>SnappFood</h3>
   <p><b>Senior Data Analyst</b></p>
   <p><i>Oct. 2024 - now</i></p>
-  <i class="fa-solid fa-link"></i> <a href="https://snappfood.ir" target="_blank">snappfood.ir</a><br>
-  • E-commerce<br>
-  • PySpark, Python, RudderStack, MS&nbsp;SQL&nbsp;Server, PostgreSQL, Metabase, git<br>
+  <p>• E-commerce<br>
+     • PySpark, Python, RudderStack, MS&nbsp;SQL&nbsp;Server, PostgreSQL, Metabase, git</p>
   <a href="/work-experiences/#snappfood"><span class="card-link-spanner"></span></a>
 </div>
 
@@ -38,9 +37,8 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
   <h3>BitPin</h3>
   <p><b>Senior Data Analyst</b></p>
   <p><i>May 2023 - Sep. 2024</i></p>
-  <i class="fa-solid fa-link"></i> <a href="https://bitpin.org" target="_blank">bitpin.org</a><br>
-  • Fintech<br>
-  • PostgreSQL, Python, Metabase, git<br>
+  <p>• Fintech<br>
+     • PostgreSQL, Python, Metabase, git</p>
   <a href="/work-experiences/#bitpin"><span class="card-link-spanner"></span></a>
 </div>
 
@@ -48,9 +46,8 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
   <h3>Roomvu</h3>
   <p><b>Data Analyst</b></p>
   <p>Jun. 2022 - Jan. 2023</p>
-  <i class="fa-solid fa-link"></i> <a href="https://roomvu.com" target="_blank">roomvu.com</a><br>
-  • SaaS<br>
-  • MySQL, Postgres, Python, Metabase, Airflow, git<br>
+  <p>• SaaS<br>
+     • MySQL, Postgres, Python, Metabase, Airflow, git</p>
   <a href="/work-experiences/#roomvu"><span class="card-link-spanner"></span></a>
 </div>
 
@@ -58,9 +55,8 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
   <h3>Revolut</h3>
   <p><b>Data Analyst</b></p>
   <p><i>Feb. 2022 - May. 2022</i></p>
-  <i class="fa-solid fa-link"></i> <a href="https://revolut.com" target="_blank">revolut.com</a><br>
-  • Fintech <br>
-  • MySQL, Python, Airflow, BitBucket (git), Looker <br>
+  <p>• Fintech <br>
+     • MySQL, Python, Airflow, BitBucket (git), Looker </p>
   <a href="/work-experiences/#revolut"><span class="card-link-spanner"></span></a>
 </div>
 
@@ -68,9 +64,8 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
   <h3>Digikala</h3>
   <p><b>Data Analyst</b></p>
   <p><i>Mar. 2021 - Jan. 2022</i></p>
-  <i class="fa-solid fa-link"></i> <a href="https://digikala.com" target="_blank">digikala.com</a><br>
-  • E-commerce <br>
-  • MS&nbsp;SQL&nbsp;Server, Power&nbsp;BI, Python, git <br>
+  <p>• E-commerce <br>
+     • MS&nbsp;SQL&nbsp;Server, Power&nbsp;BI, Python, git </p>
   <a href="/work-experiences/#digikala"><span class="card-link-spanner"></span></a>
 </div>
 
@@ -78,9 +73,8 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
   <h3>Balad Maps</h3>
   <p><b>Data Analyst</b></p>
   <p><i>Apr. 2020 - Feb. 2021</i></p>
-  <i class="fa-solid fa-link"></i> <a href="https://baladmaps.com" target="_blank">baladmaps.com</a><br>
-  • Maps and Navigation <br>
-  • PostgreSQL, MySQL, Python, PySpark, Airflow, Superset <br>
+  <p>• Maps and Navigation <br>
+     • PostgreSQL, MySQL, Python, PySpark, Airflow, Superset </p>
   <a href="/work-experiences/#baladmaps"><span class="card-link-spanner"></span></a>
 </div>
 
@@ -88,9 +82,8 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
   <h3>Balad Maps</h3>
   <p><b>Software QA Engineer</b></p>
   <p><i>Oct. 2018 - Apr. 2020</i></p>
-  <i class="fa-solid fa-link"></i> <a href="https://baladmaps.com" target="_blank">baladmaps.com</a><br>
-  • Maps and Navigation <br>
-  • Android Development, Jira, MySQL <br>
+  <p>• Maps and Navigation <br>
+     • Android Development, Jira, MySQL </p>
   <a href="/work-experiences/#baladmaps"><span class="card-link-spanner"></span></a>
 </div>
 
