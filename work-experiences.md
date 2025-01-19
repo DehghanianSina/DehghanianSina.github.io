@@ -12,7 +12,10 @@ permalink: /work-experiences/
 **Senior Data Analyst**   
 *Oct. 2024 - now*   
 <i class="fa-solid fa-link"></i> [snappfood.ir](https://snappfood.ir){:target="_blank"}   
-Join the Data team including highly skilled analysts and scientists.    
+SnappFood is the leading online food delivery platform in Iran.    
+- Orders forecasting using machine learning and time series algorithms for optimized resource allocation to vendors.
+- Applied multiple algorithms to efficiently segment and cluster users, identifying shared characteristics to offer the best services.
+- Implemented an end-to-end pipeline for data cleaning, training, forecasting, and deploying findings into production, with high-efficiency coding to handle large volumes of big data.
 
 ---   
 
