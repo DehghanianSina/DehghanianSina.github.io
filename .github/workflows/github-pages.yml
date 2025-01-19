@@ -29,15 +29,15 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Install Ruby
         run: |
-          apt-get update
-          apt-get install -y libssl-dev libreadline-dev zlib1g-dev
+          apt update
+          apt install -y libssl-dev libreadline-dev zlib1g-dev
           git clone https://github.com/rbenv/ruby-build.git ~/.ruby-build
           ~/.ruby-build/install.sh
           ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
