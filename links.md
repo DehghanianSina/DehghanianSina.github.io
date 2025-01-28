@@ -55,3 +55,11 @@ permalink: /links/
   <p>Instagram</p>
   <a href="https://instagram.com/Dehghanian.Sina" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
+
+<div class="card">
+  <b>
+  <i class="fa-regular fa-calendar-check"></i> book a meeting! 
+  </b>
+  <p>Calendar</p>
+  <a href="https://book.sinad.me/" target="_blank"><span class="card-link-spanner"></span></a>
+</div>
