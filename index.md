@@ -26,17 +26,17 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
 
 <div class="card">
   <h3>SnappFood</h3>
-  <p><b>Senior Data Analyst</b></p>
-  <p><i>Oct. 2024 - now</i></p>
+  <p><b>Senior Data Analyst & Engineer</b></p>
+  <p><i>Sep. 2024 - Aug. 2025</i></p>
   <p>• E-commerce<br>
-     • PySpark, Python, RudderStack, MS&nbsp;SQL&nbsp;Server, PostgreSQL, Metabase, git</p>
+     • PySpark, Python, RudderStack, PostgreSQL, Metabase, git, minIO, parquet, airflow</p>
   <a href="/work-experiences/#snappfood"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
   <h3>BitPin</h3>
-  <p><b>Senior Data Analyst</b></p>
-  <p><i>May 2023 - Sep. 2024</i></p>
+  <p><b>Senior Data Analyst & Engineer</b></p>
+  <p><i>Apr. 2023 - Sep. 2024</i></p>
   <p>• Fintech<br>
      • PostgreSQL, Python, Metabase, git</p>
   <a href="/work-experiences/#bitpin"><span class="card-link-spanner"></span></a>

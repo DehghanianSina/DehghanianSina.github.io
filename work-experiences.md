@@ -9,19 +9,22 @@ permalink: /work-experiences/
 ---   
 
 <h3 id="snappfood" style="margin-bottom:2px;">SnappFood</h3>
-**Senior Data Analyst**   
-*Oct. 2024 - now*   
+**Senior Data Analyst and Engineer**   
+*Sep. 2024 - Aug. 2025*   
 <i class="fa-solid fa-link"></i> [snappfood.ir](https://snappfood.ir){:target="_blank"}   
 SnappFood is the leading online food delivery platform in Iran.    
-- Orders forecasting using machine learning and time series algorithms for optimized resource allocation to vendors.
-- Applied multiple algorithms to efficiently segment and cluster users, identifying shared characteristics to offer the best services.
-- Implemented an end-to-end pipeline for data cleaning, training, forecasting, and deploying findings into production, with high-efficiency coding to handle large volumes of big data.
+- Key contributor to the Data Science Team, successfully completed multiple data analysis and engineering projects — from applying machine learning and time series algorithms to implementing end-to-end data pipelines.
+- Developed orders forecasting model for Pro Vendors using machine learning and time series techniques, enabling optimized resource allocation and powering a business dashboard used daily by product managers.
+- Designed and implemented Profit-and-Loss (PnL) analysis for Pro Users from scratch, resulting in a new feature that displays PnL directly in users’ profiles in the app.
+- Applied clustering and segmentation algorithms to identify shared characteristics among users, enhancing personalization and service quality.
+- Built and owned multiple robust ETL pipelines across the team — optimized for large-scale big data
+processing using variety of tools like Airflow, PySpark, Amazon S3, minIO, Parquet, and Trino.
 
 ---   
 
 <h3 id="bitpin" style="margin-bottom:2px;">BitPin</h3>
-**Senior Data Analyst**   
-*May 2023 - Sep. 2024*   
+**Senior Data Analyst and Engineer**   
+*Apr. 2023 - Sep. 2024*   
 <i class="fa-solid fa-link"></i> [bitpin.org](https://bitpin.org){:target="_blank"}   
 Bitpin is one of the major players in fintech industry in Iran.    
 - Working as a senior Data Analyst in TnP Department.
