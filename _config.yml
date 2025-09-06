@@ -6,7 +6,7 @@ favicon: true
 color-scheme: auto
 url: "https://sinad.me"
 
-google_analytics: G-BSG5E6YK09
+google_analytics: G-CZE75XFBRQ
 
 plugins:
   - jekyll-sitemap
