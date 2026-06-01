@@ -8,6 +8,20 @@ permalink: /work-experiences/
 
 ---   
 
+<h3 id="carmood" style="margin-bottom:2px;">Carmood</h3>
+**Senior Data Analyst and Engineer**   
+*Sep. 2025 - Jun. 2026*   
+<i class="fa-solid fa-link"></i> [carmood.com](https://carmood.com){:target="_blank"}   
+Carmood is an online platform that simplifies buying and selling collectible cars by providing detailed listings,
+expert reviews, and price comparisons. (carmood.com)   
+- Joined the company as the first data expert and assumed multiple roles (analyst, scientist, and engineer) to build the foundational data structure and enable a data-driven culture.
+- Built the company’s data infrastructure from scratch, developed multiple ETL pipelines, and established the data warehouse.
+- Created numerous dashboards for critical business metrics and KPIs, including daily executive dashboards for the CEO and long-term analytical overview dashboards.
+- Collaborated closely with tech and product teams to anticipate data requirements and establish data best practices across the product.
+- Implemented and experimented with emerging technologies such as Large Language Models (LLMs) and AI to enhance core business functions.
+
+---   
+
 <h3 id="snappfood" style="margin-bottom:2px;">SnappFood</h3>
 **Senior Data Analyst and Engineer**   
 *Sep. 2024 - Aug. 2025*   

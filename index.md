@@ -25,6 +25,15 @@ He holds a **Master’s in Artificial Intelligence** from [Isfahan University of
 # Work Experiences
 
 <div class="card">
+  <h3>Carmood</h3>
+  <p><b>Senior Data Analyst & Engineer</b></p>
+  <p><i>Sep. 2025 - Jun. 2026</i></p>
+  <p>• E-commerce<br>
+     • Python, PostgreSQL, Metabase, git, GA, BigQuery</p>
+  <a href="/work-experiences/#carmood"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>SnappFood</h3>
   <p><b>Senior Data Analyst & Engineer</b></p>
   <p><i>Sep. 2024 - Aug. 2025</i></p>
